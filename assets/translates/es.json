@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hallo Dunia!",
+  "snackbartxt": "bahasa telah diubah!",
+  "ternak": "Cría",
+  "ternakchild": {
+    "attention": "Antes de aparear Sugar Glider, hay factores que se deben considerar como:\n1. Ambiente confortable\n2. Pienso suficiente\n3. La jaula es bastante espaciosa y limpia.\n4. Sugar Glider goza de buena salud\n5. Asegúrese de que ambos estén en celo (el macho tiene 8 meses y la hembra 9 meses).\n",
+    "penjodohan": "Casamentero",
+    "kawin": "Casar",
+    "kawin_des": "Si la etapa de emparejamiento transcurre sin problemas, entonces solo es cuestión de esperar el momento del apareamiento. El proceso de kimpoy suele durar lo suficiente como para durar una noche completa. Para eso, proporcione alimentos nutritivos para que se mantenga la resistencia de Sugar Glider. ",
+    "penjodohan_des": "Al principio, asegúrese de que los dos Sugar Glider coincidan, esto es importante porque muchos propietarios no logran reproducirse debido a factores incomparables.\n\nSe puede combinar Sugar Glider acercando las jaulas de machos y hembras, generalmente en 1 semana. El objetivo es que se adapten y se conozcan.\n\nEl proceso de emparejamiento también puede ser más rápido, por lo que el propietario debe observar el planeador del azúcar. Si se ve que son consensuales (hay un acercamiento y no un strike) entonces la hembra Sugar Glider puede integrarse en la jaula del macho. El emparejamiento de Sugar Glider está marcado por los dos acariciando el cuerpo del otro.",
+    "hamil": "Embarazada",
+    "hamil_des": "Después del período de apareamiento, Sugar Glider experimentará un período de gestación de aproximadamente 15-18 días. En el proceso de quedar embarazada, es casi imposible para nosotros saber físicamente que Sugar Glider está embarazada. Por lo general, una planeadora del azúcar embarazada se caracteriza por silencio, disminución del apetito en la bolsa y un poco de sensibilidad.",
+    "melahirkan": "Dar a luz a",
+    "melahirkan_des": "En este momento del nacimiento, la madre da a luz a un niño del tamaño de un grano de arroz. Luego, el niño se propaga desde el útero hasta la bolsa de la madre lamiendo. Sugar Glider puede dar a luz a 1-2 cachorros e incluso 3 cachorros, pero eso es raro.",
+    "ip_des": "Después de que el niño nace y entra en la bolsa de la madre, esta masa se llama masa en bolsa o comúnmente llamada IP. La masa de PI varía de 1,5 a 2 meses. El tiempo de Ip depende del número de joeys en la bolsa. Joey saldrá de la bolsa cuando ya no quepa en la bolsa. Por lo general, si hay 2 joeys en la bolsa, el tiempo de IP es de alrededor de 1,5 meses y si es solo 1, el tiempo de IP es de alrededor de 2 meses.",
+    "op_des": "Masa de OP masiva donde joey está fuera de la bolsa pero todavía está amamantando a su madre",
+    "oop_des": "Cuando un joey está fuera de la bolsa y ya no está mamando, esto es lo que se llama masa OOP. En general, a partir de este período se calcula la edad del nuevo SG. Y, por lo general, Joey comienza a estudiar por sí mismo."
+  },
+  "makanan": "Comida",
+  "makananchild": {
+    "attention": "Los alimentos Sugar Glider en general incluyen :",
+    "apel": "1. Manzana",
+    "apel_des": "Los nutrientes que contienen las manzanas como la vitamina C, el agua, los carbohidratos, la vitamina A, la vitamina K, la vitamina B1 y la vitamina B6 son nutrientes muy saludables y beneficiosos para el organismo del planeador del azúcar. Además de casi ninguna grasa y pocas calorías, las manzanas también son ricas en antioxidantes y fibra.\n\nSi bien la textura de la fruta es bastante dura, es muy buena para estimular los dientes de este animal volador. La alimentación de estas manzanas puede ser 2 veces por semana y se puede servir en trozos pequeños o en puré sin necesidad de pelar la piel.",
+    "pepaya": "2. Papaya",
+    "pepaya_des": "No solo contiene suficiente vitamina C, la papaya también contiene proteínas, fibra, carbohidratos, vitamina A, vitamina B1, vitamina B3, vitamina B5, vitamina E, vitamina K y calcio.\n\nEl contenido ciertamente es capaz de cumplir con la dosis nutricional diaria y mantener la salud digestiva de Sugar Glider.\n\nLa presentación puede ser en un estado que ha sido cortado en trozos pequeños o convertido en papilla (puré).",
+    "wortel": "3. Zanahoria",
+    "wortel_des": "Una zanahoria entera contiene mucha agua y carbohidratos.\n\nAunque el contenido de proteínas es pequeño, las zanahorias son ricas en vitaminas, como vitamina A, vitamina B, vitamina C, vitamina E y vitamina K, y el contenido de calcio es de alrededor del 3%.\n\nLas zanahorias para servir pueden ser en forma de rodajas finas y redondas. Pero no a todos los Sugar Glider les gusta esta zanahoria.",
+    "madu": "4. Miel",
+    "madu_des": "La miel es un alimento natural en la naturaleza que es el más favorecido por Sugar Glider. La miel tiene un sabor dulce distintivo porque contiene fructosa y glucosa, que son mejores que el azúcar.\n\nEl contenido calórico del azúcar es capaz de absorber grasas, por lo que es muy bueno para reducir el riesgo de obesidad en Sugar Glider.\n\nLa porción de miel se puede mezclar con alimentos bursun, mezclar con una bebida o se puede alimentar directamente al planeador del azúcar.",
+    "uh": "5. Gusano de harina",
+    "uh_des": "La oruga de Hong Kong (gusano de la harina) es un tipo de oruga muy favorecida por Sugar Glider. Pero no le dé a las orugas de Hong Kong en exceso porque el alto contenido de grasa en las orugas de Hong Kong puede causar obesidad en Sugar Glider (obesidad).\n\nEs suficiente dar 5-10 orugas de Hong Kong vivas para Sugar Glider adulto, mientras que 1-5 para niños Sugar Glider de 2-3 meses con 2 veces por semana.",
+    "jangkrik": "6. Grillo",
+    "jangkrik_des": "Hay una proteína muy alta de aproximadamente 12,9 gramos contenida en 100 gramos de grillos.\n\nDar suficientes 5-10 grillos que aún estén vivos, con la provisión de 2-3 veces a la semana.",
+    "telurrebus": "8. Huevos hervidos",
+    "telurrebus_des": "Los huevos duros son una muy buena fuente de alto contenido de proteínas, densos en nutrientes, muy fáciles de consumir, por lo que pueden hacer que Sugar Glider engorde rápidamente.\n\nUn huevo duro entero contiene 6 gramos de proteína y 9 aminoácidos.\n\nEl contenido nutricional es bastante completo como carbohidratos, calcio, fósforo, vitamina A y vitamina B.\n\nLa ración es suficiente para uno o medio huevos cocidos, pelados y cortados en trozos pequeños. ",
+    "kecoadubia": "7. Cucaracha dubia",
+    "kecoadubia_des": "La cucaracha dubia también se ha convertido en una de las opciones del propietario para su querido Sugar Glider debido a su alto contenido de proteínas."
+  },
+  "jenis": "Escribe",
+  "jenischild": {
+    "cg": "La raza Classic Grey tiene pelaje gris y una raya negra que va desde la cabeza hasta la espalda, y también tiene una raya oscura que va desde los ojos hasta las orejas.",
+    "wf": "El tipo de cara blanca tiene un patrón similar al gris clásico pero con una cara blanca y sin marcas negras cerca de las orejas.",
+    "wt": "Este tipo de punta blanca tiene pelaje blanco en la punta de la cola.",
+    "rt": "El tipo Ringtail tiene un pelaje similar al gris, pero hay una variación de pelaje negro que es circular como un anillo en su cola blanca.",
+    "mo": "El tipo Mosaico tiene una combinación de colores entre los tipos de cara Leucistic y White con manchas de color como parcialmente borradas en el cuerpo.",
+    "leu": "El tipo leucístico tiene un pelaje blanco liso con ojos negros.",
+    "al": "Similar al Leucistic, el tipo Albino tiene pelaje blanco con ojos rojos debido a un trastorno genético.",
+    "plat": "El tipo platino tiene un color de pelaje gris tenue que parece desteñido",
+    "bb": "El tipo Black Beauty tiene un pelaje similar al Classic Grey pero es de color oscuro en todo el cuerpo con líneas gruesas en la cara como si se mezclara con la línea del círculo de los ojos.",
+    "creamino": "El tipo Creamino tiene pelaje dorado de color crema con ojos rojos.",
+    "piebald": "El tipo Piebald tiene una forma física, como una combinación de tipos clásicos grises y leuceséticos.",
+    "tpm": "El tipo True Platinum Mosaic es uno de los planeadores del azúcar morph del tipo mosaico"
+  },
+  "perawatan": "Cuidado",
+  "perawatanchild": {
+    "memandikan": "Baño",
+    "memandikanchild": {
+      "attention": "Cosas a considerar antes de bañarse en planeadores del azúcar :",
+      "attention_des": "1. El planeador del azúcar goza de buena salud\n2. Mejor Sugar Glider que ha sido domesticado\n3. Sugar Glider está tranquilo y no está estresado\n4. Báñese Sugar Glider por la mañana es mejor",
+      "aNb": "Herramientas & materiales",
+      "aNb_des": "1. Toallitas húmedas sin alcohol\n2. Toalla",
+      "langkah": "Pasos",
+      "langkah_des": "1. Retire el planeador del azúcar de la jaula, use una toalla si el planeador del azúcar aún no está domesticado.\n\n2. Haga que el planeador del azúcar se sienta seguro primero frotándolo.\n\n3. Lave el cuerpo del planeador del azúcar con un pañuelo húmedo sin alcohol en cada rincón.\n\n4. Luego, limpie lentamente el planeador del azúcar con una toalla suave y seca.\n\n5. Vuelva a ponerlo en la jaula y déjelo descansar y secarse.\n\nNo bañe su Sugar Glider con demasiada frecuencia porque puede limpiar el cuerpo por sí solo."
+    },
+    "potongkuku": "Corte de uñas",
+    "potongkukuchild": {
+      "attention": "Cosas a considerar antes de cortar las uñas del planeador del azúcar :",
+      "attention_des": "1. El planeador del azúcar goza de buena salud\n2. Mejor Sugar Glider que ha sido domesticado\n3. Sugar Glider está tranquilo y no está estresado",
+      "aNb": "Herramientas & materiales",
+      "aNb_des": "1. Cortaúñas\n2. Pequeños bolsillos o toallas",
+      "langkah": "Pasos",
+      "langkah_des1": "1. Primero, frótelo para que el planeador del azúcar se sienta seguro.\n\n2. Coloca el Sugar Glider en una bolsita o puedes envolverlo con una toalla y luego toma la pierna que quieres cortarte las uñas.",
+      "langkah_des2": "3. Perhatikan batas potong pada kuku sugar glider. Pastikan potong kuku sugar glider tidak terlalu pendek. Bagian kuku yang dipotong jangan sampai mengenai bagian yang disebut quick atau daging. Potonglah hanya bagian yang tajam nya saja.\n\n4. Potong kuku sugar glider dengan gunting kuku yang disiapkan, disarankan potong dengan gunting kuku khusus pet.\n\n5. Lalu masukan Sugar Glider kedalam kandang dan berikan makanan kesukaan nya. \n\nPotong kuku Sugar glider dapat dilakukan dalam 2 minggu sekali."
+    },
+    "penyakit": "Enfermedad",
+    "penyakitchild": {
+      "attention": "Las enfermedades del planeador del azúcar incluyen :",
+      "hairloss": "Perdida de cabello",
+      "hairloss_des": "La caída del cabello es un tipo de enfermedad del planeador del azúcar que provoca la caída del vello corporal. Por lo general, la principal causa de esta enfermedad se debe a una jaula sucia, la falta de nutrición y proteínas y el estrés.\n\nPara que el Sugar Glider no se exponga a la caída del cabello, se recomienda mantener siempre limpia la jaula y sus alrededores, al menos 2 veces por semana, especialmente limpiando la bolsa.",
+      "diare": "Diarrea",
+      "diare_des": "Los planeadores del azúcar que tienen diarrea experimentarán indigestión y, si no se tratan de inmediato, provocarán la muerte. La causa principal es la fuente de alimentación o la comida incorrecta. Se recomienda no alimentar a los insectos con demasiada frecuencia, o la papilla que es demasiado líquida. Combine la comida del planeador del azúcar con frutas u otros.",
+      "katarak": "Catarata",
+      "katarak_des": "Las cataratas son causadas por la ingesta de alimentos que contienen grasas demasiado altas, por lo que la nutrición en el cuerpo no está equilibrada y también puede ser causada por la luz solar directa. Esta enfermedad se caracteriza por la aparición de manchas blancas en los ojos del planeador del azúcar, que luego se extenderán por los ojos hasta que finalmente se quedarán ciegos.\n\nEl tratamiento de la enfermedad de cataratas es muy difícil de manejar. si no lo trata inmediatamente será más difícil o incluso cataratas para siempre. Por tanto para mantener la ingesta de Sugar Glider de forma adecuada.",
+      "kakibengkak": "Pie hinchado",
+      "kakibengkak_des": "Los pies del planeador del azúcar que experimentan hinchazón generalmente se deben a una infección bacteriana adherida a la herida del pie del planeador del azúcar. La enfermedad es causada por una arena de jaula sucia para que las bacterias puedan crecer y desarrollarse libremente.\n\nSi no se trata de inmediato, esta hinchazón se descompondrá y estresará el planeador del azúcar, lo que provocará la muerte."
+    }
+  },
+  "kelamin": "Género",
+  "kelaminchild": {
+    "attention": "Cómo distinguir el género de Sugar Glider :",
+    "jantan": "Masculino",
+    "jantan_des": "Los planeadores machos del azúcar no tienen bolsas en el cuerpo. Los planeadores del azúcar machos tienen un olor a orina más acre que los planeadores del azúcar hembras que sirven para marcar su territorio. A la edad de aproximadamente 5 meses, los planeadores del azúcar masculinos experimentarán cambios físicos, a saber, calvicie en la parte superior de la cabeza. Cuanto más viejo es el planeador del azúcar, más evidentes son las calvas en la cabeza. Esta calvicie es una señal de que las glándulas olfativas están comenzando a crecer.",
+    "betina": "Mujer",
+    "betina_des": "Los planeadores del azúcar hembras tienen bolsas en el cuerpo. La bolsa de este planeador del azúcar hembra sirve para cuidar a sus crías."
+  },
+  "about1": {
+    "about1title": "¿Qué es Sugar Glider?",
+    "about1caption": "El planeador del azúcar (Petaurus breviceps) es un animal pequeño, omnívoro, arbóreo y nocturno.",
+    "about1_des": "Los planeadores del azúcar (Petaurus breviceps) son animales pequeños, omnívoros, arbóreos y nocturnos. Este animal puede deslizarse y tiene una bolsa (Infraclass). Este nombre común se refiere a su afición por los alimentos dulces como el néctar y su capacidad para volar por el aire, como una ardilla voladora.\n     \nLos planeadores del azúcar se pueden encontrar en las partes norte y este de Australia continental, Tasmania, Nueva Guinea e islas relacionadas como el archipiélago de Bismarck, las islas Louisiade y ciertas islas de Indonesia como las islas Halmahera en North Maluku.\n\nÚltimamente, este animal es muy popular porque es una mascota linda y adorable. La edad del planeador del azúcar también es bastante larga, puede rondar los 10-15 años. Los planeadores del azúcar que todavía tienen entre 0 y 3 meses de edad se llaman Joey y los de más edad se llaman planeadores del azúcar adultos."
+  },
+  "about2": {
+    "about2title": "Antes de la adopción",
+    "about2caption": "Preparación antes de la adopción",
+    "komitmen": "1. Compromiso",
+    "komitmen_des": "Al mantener nuestro planeador Sugar como propietario, debemos comprometernos a mantenerlo. A partir de poder brindar alimento nutritivo, jaulas espaciosas, lugares cómodos y también el tiempo suficiente para socializar con nuestras mascotas.",
+    "komunitas": "2. Unete a la communidad",
+    "komunitas_des": "Unirse a la comunidad de planeadores de azúcar realmente ayuda al propietario a mantener estos animales únicos. Porque nosotros, como propietarios, podemos cuestionar más libremente los problemas que enfrenta el propietario con respecto a los planeadores Sugar y son respondidos directamente por personas experimentadas.",
+    "tips": "3. Consejos para elegir un planeador de azúcar",
+    "tips_des": "Si desea adoptar SG, primero debe averiguar las características de SG de forma adecuada y correcta. Porque muchos casos de fraude los llevan a cabo vendedores irresponsables como vender FS (Flying Squirrel) pero el vendedor dice que es SG. Esto también es causado por el propietario que no tiene cuidado y no conoce a SG físicamente.\n \nBusque un criador de confianza o criador SG Se recomienda que haga una encuesta directa a la casa del criador o vendedor para que pueda ver inmediatamente antes de la adopción. Pídale al vendedor que le muestre los dientes de SG, ya sea que estén completos o cortados, a muchos SG se les cortan los dientes con el objetivo de que parezcan mansos, pero los SG a los que se les cortan los dientes en su mayoría a menudo experimentan abscesos para que su apetito desaparezca, como resultado SG muere rápido.\n \nPuede adoptar un SG que tenga 3 meses porque se puede decir que es independiente. Y si adopta SG a una edad temprana, SG se vinculará rápidamente con el propietario."
+  },
+  "about3": {
+    "about3title": "Configurar Jaula",
+    "about3caption": "Una buena jaula afectará la comodidad del planeador del azúcar. La configuración general de una jaula Sugar Glider incluye :",
+    "pilihkandang": "1. Elige la jaula ideal",
+    "pilihkandang_des": "Hay muchos tipos de jaulas para SG, pero la más importante es que la jaula es grande y tiene un segmento de orificio pequeño. En general, el propietario usa una jaula de hierro con un tamaño de 60x43x43 (LxWxH) porque el área de esta jaula es suficiente para que Sugar Glider juegue.",
+    "aksesoris": "2. Accesorios en la jaula",
+    "aksesoris_des": "Los planeadores del azúcar son animales nocturnos o nocturnos que están acostumbrados a dormir en los árboles cuando están en estado salvaje. Para parecerse al hábitat natural y hacerlo cómodo, podemos proporcionar una bolsa de madera segura o una casa para pájaros.\n\nUn palo de madera también sirve para afilar los dientes y las uñas de SG. Al elegir madera segura como eucalipto, manzanita o manzano o madera de café (pero esta madera debe reemplazarse con frecuencia porque si se expone a la orina, esta madera se humedecerá y el pelaje del planeador del azúcar se volverá amarillo si se expone a la madera).\n\nY no olvide proporcionar un lugar para comer y beber para Sugar Glider. Por lo general, el propietario usa un pequeño lugar de plástico para comer o un plato de plástico para el SG porque es liviano y fácil de limpiar. Para los lugares para beber, el propietario suele utilizar un biberón especial para mascotas porque es sencillo y no se derrama fácilmente.\n\nAdemás, los planeadores del azúcar también son animales inteligentes o inteligentes, por lo que necesitan ser estimulados para que no se estresen ni se depriman. Esta estresante condición puede desencadenar otros problemas de salud que ciertamente son muy evitables.\n\nPor tanto, podemos añadir juguetes para la estimulación cerebral y física. Algunos también usan juegos de ruedas giratorias, cadenas, etc. para que crezcan sanos y activos.",
+    "alas": "3. Arena para Jaulas",
+    "alas_des": "La alfombra de arena también debe tenerse en cuenta para que el SG se sienta cómodo y evite diversas enfermedades. En general, el propietario da arena fragante en la base teniendo en cuenta la suciedad SG que huele bastante. También hay quienes usan aserrín fino porque puede absorber fácilmente el contenido de humedad, pero el inconveniente de este aserrín es que se humedece rápidamente y se esparce fácilmente."
+  },
+  "donate": "Donar",
+  "donate_des": "Done a los desarrolladores viendo anuncios.",
+  "cancel": "Cancelar"
+}

@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hello World",
+  "snackbartxt": "language has been changed!",
+  "ternak": "Reprodução",
+  "ternakchild": {
+    "attention": "Antes de emparelhar o Sugar Glider, existem fatores que precisam ser considerados, tais como:\n1. Ambiente confortável\n2. Nutrição adequada\n3. A gaiola é bastante espaçosa e limpa\n4. O planador Suger está com boa saúde\n5. Certifique-se de que ambos estão no cio (macho 8 meses e fêmea 9 meses).\n",
+    "penjodohan": "Emparelhamento",
+    "kawin": "Acoplamento",
+    "kawin_des": "Se a fase de combinação está indo bem, então é apenas uma questão de esperar o momento de acasalar. O processo kimpoy geralmente dura o suficiente para durar uma noite inteira. Para isso, forneça alimentos nutritivos de forma a manter a força do Açucareiro.",
+    "penjodohan_des": "No início, certifique-se de que os dois Sugar Gliders são iguais, isso é importante porque muitos proprietários falham em se reproduzir devido a fatores incomparáveis.\n\nO emparelhamento do Sugar Glider pode ser feito juntando gaiolas masculinas e femininas, geralmente dentro de 1 semana. O objetivo é que eles se adaptem e se conheçam.\n\nO processo de matchmaking também pode ser mais rápido, por isso o proprietário é obrigado a observar o Sugar Glider. Se eles forem considerados consensuais (há uma abordagem e não um ataque), então a fêmea do planador-açucareiro pode ser integrada à gaiola masculina. A partida do Sugar Glider é marcada pelos dois se acariciando.",
+    "hamil": "Grávida",
+    "hamil_des": "Após o período de acasalamento, Sugar Glider experimentará um período de gestação de cerca de 15-18 dias. No processo de engravidar, é quase impossível sabermos fisicamente que o Sugar Glider está grávida. Normalmente, uma gestante de planador do açúcar é caracterizada por silêncio, diminuição do apetite na bolsa e alguma sensibilidade.",
+    "melahirkan": "Então",
+    "melahirkan_des": "Nesta hora do nascimento, a mãe dá à luz do tamanho de um grão de arroz. Em seguida, o bebê é levado para se propagar do útero para a bolsa da mãe, lambendo-o. Sugar Glider pode dar à luz 1-2 joey e até 3 joey, mas isso é raro.",
+    "ip_des": "Depois que o bebê nasce e entra na bolsa da mãe, essa massa é chamada de massa In Pouch ou comumente chamada de IP. A massa IP varia de 1,5 a 2 meses. O tempo de IP depende do número de joeys na bolsa. Joey vai sair da bolsa quando ele não couber mais na bolsa. Normalmente, se houver 2 joey na bolsa, o tempo do IP é cerca de 1,5 meses e se for apenas 1, o tempo do IP é cerca de 2 meses.",
+    "op_des": "Período de OP em massa em que Joey está fora da bolsa, mas ainda amamentando sua mãe",
+    "oop_des": "Quando um joey está fora do saco e não suga mais, isso é o que é chamado de massa OOP. Em geral, a idade do novo SG é calculada a partir desse período. E Joey geralmente começa autodidata."
+  },
+  "makanan": "Comida",
+  "makananchild": {
+    "attention": "Alimentos para planadores de açúcar em geral incluem :\n",
+    "apel": "1. Apple",
+    "apel_des": "Os nutrientes contidos nas maçãs como vitamina C, água, carboidratos, vitamina A, vitamina K, vitamina B1 e vitamina B6 são nutrientes muito saudáveis e benéficos para o corpo do planador do açúcar. Além de quase não ter gordura e ter poucas calorias, as maçãs também são ricas em antioxidantes e fibras.\n\nEmbora a textura da fruta seja bastante dura, é muito boa para estimular os dentes deste animal voador. A alimentação dessas maçãs pode ser 2 vezes por semana e pode ser servida em pedacinhos ou amassada sem a necessidade de descascar a casca.",
+    "pepaya": "2. Mamão",
+    "pepaya_des": "Além de conter vitamina C suficiente, a papaia também contém proteínas, fibras, carboidratos, vitamina A, vitamina B1, vitamina B3, vitamina B5, vitamina E, vitamina K e cálcio.\n\nO conteúdo certamente atenderá à dose nutricional diária e manterá a saúde digestiva do Sugar Glider.\n\nA apresentação pode ser cortada em pequenos pedaços ou transformada em mingaus (purê).",
+    "wortel": "3. Cenouras",
+    "wortel_des": "Uma cenoura inteira contém muita água e carboidratos.\n\nEmbora o conteúdo protéico seja pequeno, a cenoura é rica em vitaminas, como vitamina A, vitamina B, vitamina C, vitamina E e vitamina K, e o teor de cálcio gira em torno de 3%.\n\nAs cenouras para servir podem ser em forma de rodelas finas. Mas nem todos os Sugar Gliders gostam desta cenoura.",
+    "madu": "4. Querida",
+    "madu_des": "O mel é um alimento natural muito apreciado pela Sugar Glider. O mel tem um sabor doce distinto porque contém frutose e glicose, que são melhores do que o açúcar.\n\nO conteúdo calórico do açúcar é capaz de absorver gordura, por isso é muito bom para reduzir o risco de obesidade em Sugar Glider.\n\nA porção de mel pode ser misturada com comida Bursun, misturada com bebida, ou pode ser dada diretamente ao Sugar Glider.",
+    "uh": "5. Lagarta de Hong Kong",
+    "uh_des": "Mealworm é um tipo de lagarta altamente favorecido pelo Sugar Glider. Mas não alimente em excesso as lagartas de Hong Kong porque o alto teor de gordura nas lagartas de Hong Kong pode causar obesidade do planador do açúcar (obesidade).\n\nÉ o suficiente para dar 5-10 lagartas vivas de Hong Kong para Sugar Glider adulto, enquanto 1-5 para Baby Sugar Glider de 2-3 meses, 2 vezes por semana.",
+    "jangkrik": "6. Grilos",
+    "jangkrik_des": "Há uma proteína muito alta de cerca de 12,9 gramas contida em 100 gramas de grilos.\n\nDando 5 a 10 grilos suficientes que ainda estão vivos, com a provisão de 2 a 3 vezes por semana.",
+    "telurrebus": "8. Ovo cozido",
+    "telurrebus_des": "Ovos cozidos são uma grande fonte de proteína, rica em nutrientes, muito fáceis de consumir e por isso podem engordar rapidamente.\n\nUm ovo cozido inteiro contém 6 gramas de proteína e 9 aminoácidos.\n\nO conteúdo nutricional é bastante completo como carboidratos, cálcio, fósforo, vitamina A e vitamina B.\n\nA porção é suficiente para um ou metade dos ovos cozidos, descascados e cortados em pequenos pedaços.",
+    "kecoadubia": "7. Dubia Cockroach",
+    "kecoadubia_des": "A barata dubia também se tornou uma das escolhas do dono para seu amado Sugar Glider devido ao seu alto teor de proteína."
+  },
+  "jenis": "Tipos",
+  "jenischild": {
+    "cg": "A raça Classic Grey possui pelo cinza e uma faixa preta que vai da cabeça às costas, e também possui uma faixa escura que vai dos olhos às orelhas.",
+    "wf": "O tipo de rosto branco tem um padrão semelhante ao cinza clássico, mas com um rosto branco e sem marcas pretas perto das orelhas",
+    "wt": "Este tipo de ponta branca tem pelo branco na ponta da cauda",
+    "rt": "O tipo Ringtail tem penas semelhantes ao cinza, mas há uma variação preta de pelo que é circular como um anel em sua cauda branca",
+    "mo": "O tipo mosaico tem uma mistura de cores entre os tipos de rosto leucístico e branco com manchas de cor parcialmente apagadas no corpo",
+    "leu": "O tipo leucístico tem uma pelagem branca lisa com olhos pretos",
+    "al": "Semelhante ao Leucistic, o tipo Albino tem pêlo branco com olhos vermelhos devido a uma doença genética",
+    "plat": "O tipo Platinum tem uma cor de revestimento cinza desbotada que parece desbotada",
+    "bb": "O tipo Black Beauty tem pelo que é semelhante ao Classic Grey, mas é de cor escura em todo o corpo com linhas grossas no rosto como se combinassem com a linha do círculo dos olhos.",
+    "creamino": "O tipo Creamino tem pelo creme dourado com olhos vermelhos",
+    "piebald": "O tipo Piebald tem uma forma física, como uma combinação dos tipos clássicos de cinza e leucéstico",
+    "tpm": "O tipo True Platinum Mosaic é um dos planadores de açúcar transformados do tipo mosaico"
+  },
+  "perawatan": "Manutenção",
+  "perawatanchild": {
+    "memandikan": "Tomando banho",
+    "memandikanchild": {
+      "attention": "Coisas a considerar antes de tomar banho de planadores do açúcar:",
+      "attention_des": "1. O planador do açúcar está bem de saúde\n2. Melhor planador de açúcar que foi domesticado\n3. Sugar Glider é calmo e sem estresse\n4. Banhar o planador de açúcar pela manhã é o melhor",
+      "aNb": "Ferramentas e materiais",
+      "aNb_des": "1. Lenços umedecidos sem álcool\n2. Toalha",
+      "langkah": "Passos",
+      "langkah_des": "1. Remova o açucareiro da gaiola, use uma toalha se o açucareiro ainda não estiver domesticado.\n\n2. Faça o Sugar Glider parecer seguro primeiro, esfregando-o.\n\n3. Lave o corpo do Sugar Glider com um lenço umedecido sem álcool em cada canto.\n\n4. Em seguida, limpe o planador de açúcar com uma toalha macia e seca lentamente.\n\n5. Coloque-o de volta na gaiola e deixe-o descansar e se secar.\n\nNão dê banho em seu Sugar Glider com muita frequência, pois ele pode limpar o corpo por conta própria."
+    },
+    "potongkuku": "Unhas cortadas",
+    "potongkukuchild": {
+      "attention": "Coisas a considerar antes de cortar as unhas do planador-do-açúcar:",
+      "attention_des": "1. O planador do açúcar está bem de saúde\n2. Melhor planador de açúcar que foi domesticado\n3. Sugar Glider é calmo e sem estresse",
+      "aNb": "Ferramentas e Material",
+      "aNb_des": "1. Cortador de unhas\n2. Pequenos bolsos ou toalhas",
+      "langkah": "Passos",
+      "langkah_des1": "1. Faça o Sugar Glider parecer seguro, primeiro esfregando-o.\n\n2. Coloque o Sugar Glider em um saquinho ou embrulhe-o em uma toalha e pegue a perna que deseja cortar as unhas.",
+      "langkah_des2": "3. Preste atenção ao limite de corte nas unhas do planador do açúcar. Certifique-se de que as unhas do planador-do-açúcar não sejam muito curtas. A parte da unha cortada não deve tocar na isca rápida ou na carne. Corte apenas as partes afiadas.\n \n4. Corte as unhas do planador de açúcar com o cortador de unhas preparado, recomenda-se cortá-las com um cortador de unhas especial para animais de estimação.\n \n5. Em seguida, coloque o açucareiro na gaiola e dê a ele sua comida favorita.\n \nO corte de unhas do Sugar Glider pode ser feito em 2 semanas."
+    },
+    "penyakit": "Doença",
+    "penyakitchild": {
+      "attention": "As doenças do planador do açúcar incluem:",
+      "hairloss": "Perda de cabelo",
+      "hairloss_des": "Calvície é um tipo de doença do planador do açúcar que causa a queda de pelos do corpo. Normalmente a principal causa desta doença é devido a uma gaiola suja, falta de nutrição e proteínas e estresse.\n\nPara que o Sugar Glider não fique exposto à queda de cabelo, é recomendável manter sempre a gaiola e arredores limpos, pelo menos 2 vezes por semana, principalmente limpando a bolsa.",
+      "diare": "Diarréia",
+      "diare_des": "Os petauros-do-açúcar com diarreia podem sofrer de indigestão e, se não forem tratados imediatamente, podem resultar em morte. A principal causa é a fonte do alimento, ou o alimento errado. Recomenda-se não alimentar os insetos com muita frequência, ou o mingau que é muito líquido. Combine comida de planador de açúcar com frutas ou outro.",
+      "katarak": "Catarata",
+      "katarak_des": "La cataratta è causata dall'assunzione di cibi che contengono grassi troppo elevati per cui l'alimentazione nel corpo non è equilibrata e può anche essere causata dalla luce solare diretta. Questa malattia è caratterizzata dalla comparsa di macchie bianche negli occhi del petauro dello zucchero, che si diffonderanno poi in tutti gli occhi fino a diventare ciechi.\n\nIl trattamento della malattia della cataratta è molto difficile da gestire. se non la tratti subito sarà più difficile o addirittura cataratta per sempre. Pertanto per mantenere l'assunzione di Sugar Glider correttamente.",
+      "kakibengkak": "Pé inchado",
+      "kakibengkak_des": "Os pés do planador-do-açúcar que apresentam inchaço geralmente são causados por uma infecção bacteriana no ferimento do pé do planador-açucareiro. A doença é causada por uma arena de gaiola suja, de modo que as bactérias podem crescer e se desenvolver livremente.\n\nSe não for tratado imediatamente, esse inchaço se deteriorará e estressará o Sugar Glider, o que resultará em morte."
+    }
+  },
+  "kelamin": "Gênero ",
+  "kelaminchild": {
+    "attention": "Como distinguir o gênero de Sugar Glider :",
+    "jantan": "Masculino",
+    "jantan_des": "Os petauros machos não têm bolsas no corpo. Os petauros-do-açúcar machos têm um odor mais pungente a urina do que os petauros-do-açúcar fêmeas costumavam marcar seu território. Por volta dos 5 meses de idade, os petauros do açúcar do sexo masculino experimentam mudanças físicas, nomeadamente calvície no topo da cabeça. Quanto mais velho o planador do açúcar, mais visíveis são as manchas calvas na cabeça. Essa calvície é um sinal de que as glândulas olfativas estão começando a crescer.",
+    "betina": "Fêmea",
+    "betina_des": "As fêmeas do planador do açúcar têm bolsas no corpo. A bolsa neste planador de açúcar fêmea serve para cuidar de seus filhotes."
+  },
+  "about1": {
+    "about1title": "O que é Sugar Glider?",
+    "about1caption": "O planador do açúcar (Petaurus breviceps) é um animal pequeno, onívoro, arbóreo e noturno.",
+    "about1_des": "Os petauros-do-açúcar (Petaurus breviceps) são animais pequenos, onívoros, arbóreos e noturnos. Este animal pode planar e possui uma bolsa (Infraclass). Este nome comum se refere à sua inclinação por alimentos doces, como néctar, e sua habilidade de voar alto, como um esquilo voador.\n     \nOs planadores do açúcar podem ser encontrados nas partes norte e leste da Austrália continental, Tasmânia, Nova Guiné e ilhas relacionadas, como o arquipélago Bismarck, as ilhas Louisiade e certas ilhas indonésias, como as ilhas Halmahera no norte de Maluku.\n\nUltimamente, este animal é muito popular porque é um animal de estimação fofo e adorável. A idade do Sugar Glider também é bastante longa, pode ser em torno de 10-15 anos. Os petauros-do-açúcar com 0-3 meses de idade são chamados de Joeys e os maiores de idade são chamados de petauros-do-açúcar adultos"
+  },
+  "about2": {
+    "about2title": "Antes da Adoção",
+    "about2caption": "Preparação antes da adoção",
+    "komitmen": "1. Compromisso",
+    "komitmen_des": "Ao manter nosso planador de açúcar como proprietário, devemos nos comprometer em mantê-lo. Começando por ser capaz de fornecer alimentos nutritivos, gaiolas espaçosas, lugares confortáveis e também tempo suficiente para socializar com nossos animais de estimação.",
+    "komunitas": "2. Junte-se à comunidade",
+    "komunitas_des": "Juntar-se à comunidade Sugar glider realmente ajuda o proprietário a manter esses animais únicos. Porque nós, como proprietários, podemos questionar mais livremente os problemas que o proprietário enfrenta em relação aos planadores do açúcar e somos respondidos diretamente por pessoas experientes.",
+    "tips": "3. Dicas para escolher um planador de açúcar",
+    "tips_des": "Se você deseja adotar o SG, deve primeiro descobrir as características do SG de maneira adequada e correta. Porque muitos casos de fraude são praticados por vendedores irresponsáveis como a venda de FS (Flying Squirrel), mas o vendedor diz que é SG. Isso também é causado pelo proprietário que não é cuidadoso e não conhece SG fisicamente\n \nProcure um criador de confiança ou criador de SG. É recomendável que você faça uma vistoria direta na casa do criador ou vendedor para que possa ver imediatamente antes da adoção. Peça ao vendedor para mostrar os dentes do SG se estão completos ou cortados, muitos SGs têm seus dentes cortados com o objetivo de torná-los domesticados, mas os SGs cujos dentes são cortados na maioria das vezes apresentam abscessos para que seu apetite desapareça, como resultado SGs vai morrer rapidamente.\n \nVocê pode adotar um SG com 3 meses porque pode ser considerado independente. E se você adotar SG em uma idade jovem, então SG irá se relacionar rapidamente com o proprietário."
+  },
+  "about3": {
+    "about3title": "Configuração da gaiola",
+    "about3caption": "Uma boa gaiola afetará o conforto do planador do açúcar. A configuração geral de uma gaiola Sugar Glider inclui :",
+    "pilihkandang": "1. Escolha a gaiola ideal",
+    "pilihkandang_des": "Existem muitos tipos de gaiolas para SG, mas o mais importante é que a gaiola é grande e possui um pequeno segmento de orifício. Em geral, o dono usa uma gaiola de ferro com tamanho de 60x43x43 (CxLxA) porque a área dessa gaiola é suficiente para o Sugar Glider brincar.",
+    "aksesoris": "2. Acessórios na gaiola",
+    "aksesoris_des": "Os planadores do açúcar são animais noturnos ou noturnos que costumam dormir nas árvores quando estão na natureza. A fim de se parecer com o habitat natural e torná-lo confortável, podemos fornecer uma bolsa de madeira ou um galinheiro seguro.\n\nUm pedaço de madeira também serve para afiar os dentes e as unhas de SG. Ao escolher madeiras seguras como eucalipto, manzanita ou macieira ou café (mas esta madeira deve ser substituída frequentemente porque se for exposta à urina esta madeira ficará úmida e o pêlo do planador ficará amarelo se for exposto ao Madeira).\n\nE não se esqueça de providenciar um local para comer e beber para o Sugar Glider. Normalmente o proprietário usa um pequeno local de plástico para comer ou um prato de plástico para o SG, pois é leve e fácil de limpar. Para lugares onde se bebe, o dono costuma usar uma garrafa pet especial porque é simples e não derrama facilmente\n\nAlém disso, os planadores do açúcar também são animais inteligentes ou inteligentes, por isso precisam ser estimulados para não ficarem estressados ​​ou deprimidos. Essa condição estressante pode desencadear outros problemas de saúde que certamente são evitáveis.\n\nPortanto, podemos adicionar brinquedos para estimulação cerebral e física. Alguns também usam jogos de roda giratória, correntes, etc. para que cresçam saudáveis ​​e ativos.",
+    "alas": "3. Cama de esterco",
+    "alas_des": "O tapete de areia também deve ser considerado para que o SG se sinta confortável e evite várias doenças. Em geral, o proprietário dá areia perfumada na base considerando a sujeira SG que é bastante fedorenta. Há também quem use serragem fina porque pode absorver facilmente o teor de umidade, mas a desvantagem dessa serragem é que rapidamente se torna úmida e se espalha facilmente."
+  },
+  "donate": "Doar",
+  "donate_des": "Doe para desenvolvedores assistindo a anúncios.",
+  "cancel": "Cancelar"
+}

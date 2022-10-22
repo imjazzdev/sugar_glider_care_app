@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322239563090",
+    "project_id": "sugar-glider-care-app",
+    "storage_bucket": "sugar-glider-care-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322239563090:android:a58c479ddc42bd2de4e68b",
+        "android_client_info": {
+          "package_name": "com.jazzdev.sugarglidercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322239563090-deknsp3jnf3l8ngmisjbb3v9cutus3tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBSZSeCXEIpuBTupvSEi1c-mmE5nsQlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322239563090-deknsp3jnf3l8ngmisjbb3v9cutus3tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

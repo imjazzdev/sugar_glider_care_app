@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hello World",
+  "snackbartxt": "language has been changed!",
+  "ternak": "Allevamento",
+  "ternakchild": {
+    "attention": "Prima di accoppiare Sugar Glider, ci sono fattori che devono essere considerati come:\n1. Ambiente confortevole\n2. Alimentazione adeguata\n3. La gabbia è abbastanza spaziosa e pulita\n4. Suger Glider gode di buona salute\n5. Assicurati che siano entrambi in calore (il maschio ha 8 mesi e la femmina 9 mesi).\n",
+    "penjodohan": "Abbinamento",
+    "kawin": "Accoppiamento",
+    "kawin_des": "Se la fase di matchmaking procede senza intoppi, allora è solo questione di aspettare il momento dell'accoppiamento. Il processo del kimpoy di solito dura abbastanza a lungo da durare una notte intera. Per questo, fornisci cibo nutriente in modo da mantenere la resistenza di Sugar Glider.",
+    "penjodohan_des": "All'inizio, assicurati che i due Sugar Gliders siano abbinati, questo è importante perché molti proprietari non riescono a riprodursi a causa di fattori ineguagliati.\n\nL'abbinamento di Sugar Glider può essere fatto avvicinando entrambe le gabbie maschili e femminili, di solito entro 1 settimana. L'obiettivo è che si adattino e si conoscano.\n\nIl processo di matchmaking può anche essere più veloce, per questo il proprietario è tenuto a osservare lo Sugar Glider. Se si vede che sono consensuali (c'è un approccio e non uno sciopero) allora la femmina Sugar Glider può essere integrata nella gabbia maschile. La partita di Sugar Glider è contrassegnata dai due che si accarezzano a vicenda.",
+    "hamil": "Incinta",
+    "hamil_des": "Dopo il periodo di accoppiamento, Sugar Glider sperimenterà un periodo di gestazione di circa 15-18 giorni. Nel processo di rimanere incinta, è quasi impossibile per noi sapere fisicamente che Sugar Glider è incinta. Di solito una Sugar Glider incinta è caratterizzata da silenzio, diminuzione dell'appetito nella sacca e un po' di sensibilità.",
+    "melahirkan": "Nato",
+    "melahirkan_des": "In questo momento della nascita, la madre dà alla luce le dimensioni di un chicco di riso. Quindi il bambino viene portato a propagarsi dall'utero al marsupio della madre leccandolo. Sugar Glider può dare alla luce 1-2 joey e anche 3 joey, ma è raro.",
+    "ip_des": "Dopo che il bambino è nato ed è entrato nel marsupio della madre, questa massa è chiamata massa In Pouch o comunemente chiamata IP. La massa IP varia da 1,5 a 2 mesi. Il tempo Ip dipende dal numero di joey nella borsa. Joey uscirà dalla borsa quando non entrerà più nella borsa. Di solito se ci sono 2 joey nella borsa, il tempo IP è di circa 1,5 mesi e se è solo 1, il tempo IP è di circa 2 mesi.",
+    "op_des": "Periodo di massa OP in cui Joey è fuori dalla borsa ma sta ancora allattando sua madre",
+    "oop_des": "Quando un joey è fuori dal sacco e non succhia più, questo è ciò che viene chiamato una massa OOP. In generale, da questo periodo viene calcolata l'età della nuova SG. E di solito Joey inizia a studiare da autodidatta."
+  },
+  "makanan": "Cibo",
+  "makananchild": {
+    "attention": "Gli alimenti Sugar Glider in generale includono :\n",
+    "apel": "1. Mela",
+    "apel_des": "I nutrienti contenuti nelle mele come vitamina C, acqua, carboidrati, vitamina A, vitamina K, vitamina B1 e vitamina B6 sono nutrienti molto salutari e benefici per il corpo del petauro dello zucchero. Oltre a essere quasi prive di grassi e con poche calorie, le mele sono anche ricche di antiossidanti e fibre.\n\nSebbene la consistenza del frutto sia piuttosto dura, è molto buona per stimolare i denti di questo animale volante. L'alimentazione di queste mele può essere 2 volte a settimana e può essere servita in piccoli pezzi o schiacciata senza bisogno di sbucciare la pelle.",
+    "pepaya": "2. Papaia",
+    "pepaya_des": "Non solo contiene abbastanza vitamina C, il frutto della papaya contiene anche proteine, fibre, carboidrati, vitamina A, vitamina B1, vitamina B3, vitamina B5, vitamina E, vitamina K e calcio.\n\nIl contenuto è sicuramente in grado di soddisfare la dose nutrizionale giornaliera e mantenere la salute dell'apparato digerente di Sugar Glider.\n\nLa presentazione può essere tagliata in piccoli pezzi o trasformata in porridge (purè).",
+    "wortel": "3. Carota",
+    "wortel_des": "Una carota intera contiene molta acqua e carboidrati.\n\nSebbene il contenuto proteico sia piccolo, le carote sono ricche di vitamine, come vitamina A, vitamina B, vitamina C, vitamina E e vitamina K e il contenuto di calcio è di circa il 3%.\n\nServire le carote può essere sotto forma di fette rotonde sottili. Ma non a tutti gli Sugar Glider piace questa carota.",
+    "madu": "4. Miele",
+    "madu_des": "Il miele è un alimento naturale in natura che è molto apprezzato da Sugar Glider. Il miele ha un sapore dolce distinto perché contiene fruttosio e glucosio, che sono migliori dello zucchero.\n\nIl contenuto calorico dello zucchero è in grado di assorbire i grassi, quindi è molto buono per ridurre il rischio di obesità in Sugar Glider.\n\nLa porzione di miele può essere mescolata con il cibo Bursun, mescolata al bere o può essere somministrata direttamente allo Sugar Glider.",
+    "uh": "5. Verme della farina",
+    "uh_des": "Mealworm è un tipo di bruco che è molto favorito da Sugar Glider. Ma non dare eccessivamente i bruchi di Hong Kong perché l'alto contenuto di grassi nei bruchi di Hong Kong può causare l'obesità in Sugar Glider (obesità).\n\nÈ sufficiente dare 5-10 bruchi vivi di Hong Kong per Sugar Glider adulto, mentre 1-5 per Sugar Glider bambini di 2-3 mesi con 2 volte a settimana.",
+    "jangkrik": "6. Grillo",
+    "jangkrik_des": "C'è una proteina molto alta di circa 12,9 grammi contenuta in 100 grammi di grilli.\n\nDare abbastanza 5-10 grilli che sono ancora vivi, con la somministrazione di 2-3 volte a settimana.",
+    "telurrebus": "8. Uovo sodo",
+    "telurrebus_des": "Le uova sode sono un'ottima fonte di proteine, ricche di nutrienti, molto facili da consumare in modo che possano ingrassare velocemente Sugar Glider.\n\nUn uovo intero sodo contiene 6 grammi di proteine e 9 aminoacidi.\n\nIl contenuto nutrizionale è abbastanza completo come carboidrati, calcio, fosforo, vitamina A e vitamina B.\n\nLa porzione è sufficiente per una o metà delle uova sode, sgusciate e tagliate a pezzetti.",
+    "kecoadubia": "7. Scarafaggio Dubia",
+    "kecoadubia_des": "Lo scarafaggio dubia è diventato anche una delle scelte del proprietario per il suo amato Sugar Glider a causa del suo alto contenuto proteico."
+  },
+  "jenis": "Tipi",
+  "jenischild": {
+    "cg": "La razza Classic Grey ha il pelo grigio e una striscia nera che va dalla testa alla schiena, e ha anche una striscia scura che va dagli occhi alle orecchie.",
+    "wf": "Il tipo White Face ha un motivo simile al Classic Grey ma con una faccia bianca e nessun segno nero vicino alle orecchie",
+    "wt": "Questo tipo di punta bianca ha una pelliccia bianca sulla punta della coda",
+    "rt": "Il tipo Ringtail ha piume simili al grigio, ma ci sono variazioni nere che sono circolari come un anello sulla coda bianca",
+    "mo": "Il tipo Mosaic ha una combinazione di colori tra i tipi di faccia Leucistic e White con macchie di colore come parzialmente cancellate sul corpo",
+    "leu": "Il tipo leucistico ha un semplice mantello bianco con occhi neri",
+    "al": "Simile a Leucistic, il tipo Albino ha il pelo bianco con gli occhi rossi a causa di una malattia genetica",
+    "plat": "Il tipo Platinum ha un colore del mantello grigio tenue che sembra sbiadito",
+    "bb": "Il tipo Black Beauty ha una pelliccia simile al Classic Grey ma è di colore scuro su tutto il corpo con linee spesse sul viso come se si fondesse con la linea del cerchio degli occhi.",
+    "creamino": "Il tipo Creamino ha il pelo color crema dorato con occhi rossi",
+    "piebald": "Il tipo Pezzato ha una forma fisica come una combinazione di tipi classici grigi e leucestici",
+    "tpm": "Il tipo True Platinum Mosaic è uno degli alianti dello zucchero morph del tipo a mosaico"
+  },
+  "perawatan": "Quale",
+  "perawatanchild": {
+    "memandikan": "Fare il bagno",
+    "memandikanchild": {
+      "attention": "Cose da considerare prima di fare il bagno Gli alianti dello zucchero:",
+      "attention_des": "1. Il petauro dello zucchero è in buona salute\n2. Meglio Sugar Glider che è stato addomesticato\n3. Sugar Glider è calmo e non stressato\n4. Fare il bagno a Sugar Glider al mattino è meglio",
+      "aNb": "Strumenti e materiali",
+      "aNb_des": "1. Salviette umidificate analcoliche\n2. Asciugamano",
+      "langkah": "Passi",
+      "langkah_des": "1. Rimuovere lo zucchero dalla gabbia, utilizzare un asciugamano se lo zucchero non è ancora addomesticato.\n\n2. Fai in modo che lo Sugar Glider si senta al sicuro prima strofinandolo.\n\n3. Lavare il corpo dello Sugar Glider con un panno umido analcolico in ogni angolo.\n\n4. Quindi pulire lentamente il petauro dello zucchero con un asciugamano morbido e asciutto.\n\n5. Rimettilo nella gabbia e lascialo riposare e asciugare.\n\nNon bagnare troppo spesso il tuo Sugar Glider perché può pulire il corpo da solo."
+    },
+    "potongkuku": "Unghie Tagliate",
+    "potongkukuchild": {
+      "attention": "Cose da considerare prima di tagliare le unghie del petauro dello zucchero :",
+      "attention_des": "1. Il petauro dello zucchero è in buona salute\n2. Meglio Sugar Glider che è stato addomesticato\n3. Sugar Glider è calmo e non stressato",
+      "aNb": "Strumenti e materiale",
+      "aNb_des": "1. Tagliaunghie\n2. Piccole tasche o asciugamani",
+      "langkah": "Passi",
+      "langkah_des1": "1. Fai in modo che lo Sugar Glider si senta al sicuro prima strofinandolo.\n\n2. Metti lo Sugar Glider in una piccola borsa o puoi avvolgerlo con un asciugamano e poi prendi la gamba che vuoi tagliare le unghie.",
+      "langkah_des2": "3. Prestare attenzione al limite di taglio sulle unghie del petauro dello zucchero. Assicurati che le unghie del petauro dello zucchero non siano troppo corte. La parte dell'unghia che viene tagliata non deve toccare il richiamo rapido o la carne. Taglia solo le parti taglienti.\n \n4. Taglia le unghie del petauro dello zucchero con il tagliaunghie preparato, si consiglia di tagliarle con uno speciale tagliaunghie per animali domestici.\n \n5. Quindi metti il petauro dello zucchero nella gabbia e dagli il suo cibo preferito.\n \nIl taglio delle unghie di Sugar Glider può essere eseguito in 2 settimane."
+    },
+    "penyakit": "Malattia",
+    "penyakitchild": {
+      "attention": "Le malattie del petauro dello zucchero includono:",
+      "hairloss": "La perdita di capelli",
+      "hairloss_des": "La caduta dei capelli è un tipo di malattia da petauro dello zucchero che causa la caduta dei peli del corpo. Di solito la causa principale di questa malattia è dovuta a una gabbia sporca, alla mancanza di nutrizione e proteine e allo stress.\n\nAffinché lo Sugar Glider non sia esposto alla caduta dei capelli, si consiglia di mantenere sempre pulita la gabbia e l'ambiente circostante, almeno 2 volte a settimana, in particolare pulendo la sacca.",
+      "diare": "Diarrea",
+      "diare_des": "I petauri dello zucchero che hanno la diarrea sperimenteranno indigestione e, se non trattati immediatamente, provocheranno la morte. La causa principale è la fonte di cibo, o il cibo sbagliato. Si raccomanda di non dare da mangiare agli insetti troppo spesso, o al porridge troppo liquido. Combina il cibo per petauro dello zucchero con frutta o altro.",
+      "katarak": "Cataratta",
+      "katarak_des": "La cataratta è causata dall'assunzione di cibi che contengono grassi troppo elevati per cui l'alimentazione nel corpo non è equilibrata e può anche essere causata dalla luce solare diretta. Questa malattia è caratterizzata dalla comparsa di macchie bianche negli occhi del petauro dello zucchero, che si diffonderanno poi in tutti gli occhi fino a diventare ciechi.\n\nIl trattamento della malattia della cataratta è molto difficile da gestire. se non la tratti subito sarà più difficile o addirittura cataratta per sempre. Pertanto per mantenere l'assunzione di Sugar Glider correttamente.",
+      "kakibengkak": "Piede gonfio",
+      "kakibengkak_des": "I piedi del petauro dello zucchero che manifestano gonfiore sono solitamente dovuti a un'infezione batterica attaccata alla ferita del piede del petauro dello zucchero. La malattia è causata da un'arena a gabbia sporca in modo che i batteri possano crescere e svilupparsi liberamente.\n\nSe non viene trattato immediatamente, questo gonfiore si decomporrà e stresserà il Glider con conseguente morte."
+    }
+  },
+  "kelamin": "Genere",
+  "kelaminchild": {
+    "attention": "Come distinguere il genere di Sugar Glider :",
+    "jantan": "Maschio",
+    "jantan_des": "I petauri dello zucchero maschi non hanno sacchetti sui loro corpi. I petauri dello zucchero maschi hanno un odore di urina più pungente rispetto ai petauri dello zucchero femmine che servono a marcare il loro territorio. All'età di circa 5 mesi gli alianti maschi dello zucchero sperimenteranno cambiamenti fisici, vale a dire la calvizie sulla parte superiore della testa. Più vecchio è il petauro dello zucchero, più evidenti sono i punti calvi sulla testa. Questa calvizie è un segno che le ghiandole dell'olfatto stanno iniziando a crescere.",
+    "betina": "Femmina",
+    "betina_des": "Gli alianti dello zucchero femminili hanno dei sacchetti sui loro corpi. La sacca di questo petauro dello zucchero serve per prendersi cura dei suoi piccoli."
+  },
+  "about1": {
+    "about1title": "Cos'è il petauro dello zucchero?",
+    "about1caption": "Il petauro dello zucchero (Petaurus breviceps) è un animale piccolo, onnivoro, arboricolo e notturno.",
+    "about1_des": "I petauri dello zucchero (Petaurus breviceps) sono animali piccoli, onnivori, arboricoli e notturni. Questo animale può planare e ha una sacca (Infraclasse). Questo nome comune si riferisce alla sua propensione per i cibi dolci come il nettare e la sua capacità di librarsi nell'aria, come uno scoiattolo volante.\n     \nI petauri dello zucchero si possono trovare in tutte le parti settentrionali e orientali dell'Australia continentale, della Tasmania, della Nuova Guinea e delle isole correlate come l'arcipelago di Bismarck, le isole Louisiade e alcune isole indonesiane come le isole Halmahera nelle Molucche settentrionali.\n\nUltimamente, questo animale è molto popolare perché è un animale domestico carino e adorabile. Anche l'età dello Sugar Glider è piuttosto lunga, può aggirarsi intorno ai 10-15 anni. I petauri dello zucchero che hanno ancora 0-3 mesi si chiamano Joey e quelli di età superiore sono chiamati petauri dello zucchero adulti"
+  },
+  "about2": {
+    "about2title": "Prima dell'adozione",
+    "about2caption": "Preparazione prima dell'adozione",
+    "komitmen": "1. Impegno",
+    "komitmen_des": "Nel mantenere il nostro Sugar glider come proprietario, dobbiamo impegnarci a mantenerlo. A partire dalla capacità di fornire mangime nutriente, gabbie spaziose, luoghi confortevoli e anche abbastanza tempo per socializzare con i nostri animali domestici.",
+    "komunitas": "2. Unisciti alla community",
+    "komunitas_des": "Entrare a far parte della community di Sugar glider aiuta davvero il proprietario a mantenere questi animali unici. Perché noi come proprietari possiamo mettere più liberamente in discussione i problemi che il proprietario deve affrontare per quanto riguarda gli alianti dello zucchero e ricevere risposte direttamente da persone esperte.",
+    "tips": "3. Suggerimenti per la scelta di un petauro dello zucchero",
+    "tips_des": "Se vuoi adottare SG, dovresti prima scoprire le caratteristiche di SG in modo corretto e corretto. Perché molti casi di frode vengono eseguiti da venditori irresponsabili come la vendita di FS (scoiattolo volante) ma il venditore dice che è SG. Questo è causato anche dal proprietario che non sta attento e non conosce SG fisicamente\n \nCerca un allevatore di fiducia o un allevatore di SG. Si consiglia di fare un sopralluogo diretto alla casa dell'allevatore o del venditore in modo da poter vedere subito prima dell'adozione. Chiedi al venditore di mostrare i denti di SG se sono completi o tagliati, molti SG si fanno tagliare i denti con l'obiettivo di farli sembrare docili, ma gli SG i cui denti vengono tagliati per lo più spesso sperimentano ascessi in modo che il loro appetito scompaia, di conseguenza SG morirà presto.\n \nPuoi adottare una SG che ha 3 mesi perché si può dire che sia indipendente. E se adotti SG in giovane età, allora SG si legherà rapidamente al proprietario."
+  },
+  "about3": {
+    "about3title": "Configurazione della gabbia",
+    "about3caption": "Una buona gabbia influenzerà il comfort del petauro dello zucchero. La configurazione generale di una gabbia Sugar Glider include:",
+    "pilihkandang": "1. Scegli la gabbia ideale",
+    "pilihkandang_des": "Esistono molti tipi di gabbie per SG, ma la più importante è che la gabbia sia grande e abbia un piccolo segmento di foro. In generale, il proprietario usa una gabbia di ferro con una dimensione di 60x43x43 (LxWxH) perché l'area di questa gabbia è sufficiente per far giocare Sugar Glider.",
+    "aksesoris": "2. Accessori nella gabbia",
+    "aksesoris_des": "I petauri dello zucchero sono animali notturni o notturni che sono abituati a dormire sugli alberi quando sono allo stato brado. Per assomigliare all'habitat naturale e renderlo confortevole, possiamo fornire una custodia in legno sicura o una casetta per uccelli.\n\nUn bastoncino di legno serve anche per affilare i denti e le unghie di SG. Scegliendo legno sicuro come eucalipto, manzanita o legno di melo o legno di caffè (ma questo legno deve essere sostituito spesso perché se esposto all'urina questo legno si inumidirà e la pelliccia del petauro dello zucchero ingiallirà se è esposta al Di legno).\n\nE non dimenticare di fornire un posto dove mangiare e bere per Sugar Glider. Di solito il proprietario usa un piccolo posto di plastica per mangiare o un piatto di plastica per la SG perché è leggero e facile da pulire. Per i posti dove bere, il proprietario di solito usa una bottiglia speciale per animali domestici perché è semplice e non si rovescia facilmente\n\nInoltre, i petauri dello zucchero sono anche animali intelligenti o intelligenti, quindi hanno bisogno di essere stimolati in modo che non si stressino o si deprimano. Questa condizione stressante può innescare altri problemi di salute che sono sicuramente molto evitabili.\n\nPertanto, possiamo aggiungere giocattoli per la stimolazione cerebrale e fisica. Alcuni usano anche giochi con la ruota che gira, catene, ecc. In modo che crescano sani e attivi.",
+    "alas": "3. Stuoia di letame",
+    "alas_des": "Anche la lettiera deve essere considerata in modo che SG si senta a suo agio ed eviti varie malattie. In generale il proprietario dà sabbia profumata sulla base considerando lo sporco SG che è piuttosto maleodorante. Ci sono anche quelli che usano la segatura fine perché può assorbire facilmente il contenuto di umidità, ma lo svantaggio di questa segatura è che diventa rapidamente umida e si disperde facilmente."
+  },
+  "donate": "Donare",
+  "donate_des": "Dona agli sviluppatori guardando gli annunci.",
+  "cancel": "Annulla"
+}

@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hallo Dunia!",
+  "snackbartxt": "bahasa telah diubah!",
+  "ternak": "Reproduction",
+  "ternakchild": {
+    "attention": "Avant d'accoupler Sugar Glider, il y a des facteurs qui doivent être pris en compte tels que :\n1. Environnement confortable\n2. Alimentation suffisante\n3. La cage est assez spacieuse et propre\n4. Sugar Glider est en bonne santé\n5. Assurez-vous qu'ils sont tous les deux en chaleur (le mâle a 8 mois et la femelle a 9 mois).\n",
+    "penjodohan": "Correspondant à",
+    "kawin": "Accouplement",
+    "kawin_des": "Si la phase d'accouplement se passe bien, attendez simplement l'heure du kimpoy. Le processus de kimpoy dure généralement assez longtemps pour durer une nuit complète. Pour cela, fournissez des aliments nutritifs afin que l'endurance de Sugar Glider soit maintenue.",
+    "penjodohan_des": "Au début, assurez-vous que les deux Sugar Gliders sont appariés, ceci est important car de nombreux propriétaires ne parviennent pas à se reproduire en raison de facteurs inégalés.\n\nL'appariement du Sugar Glider peut être effectué en rapprochant les cages des mâles et des femelles, généralement dans un délai d'une semaine. Le but est qu'ils s'adaptent et apprennent à se connaître.\n\nLe processus de mise en relation peut également être plus rapide, car le propriétaire est tenu d'observer le Sugar Glider. Si l'on constate qu'ils sont consensuels (il y a une approche et non une frappe) alors la femelle Sugar Glider peut être intégrée dans la cage mâle. Le matchmaking de Sugar Glider est marqué par le fait que les deux se caressent le corps.",
+    "hamil": "Enceinte",
+    "hamil_des": "Après la période d'accouplement, Sugar Glider connaîtra une période de gestation d'environ 15 à 18 jours. En train de tomber enceinte, il nous est presque impossible de savoir physiquement que la Sugar Glider est enceinte. Habituellement, une Sugar Glider enceinte se caractérise par le silence, une diminution de l'appétit dans la poche et un peu de sensibilité.",
+    "melahirkan": "Donner naissance à",
+    "melahirkan_des": "A ce moment de la naissance, la mère donne naissance à un enfant de la taille d'un grain de riz. Ensuite, l'enfant est amené à se propager de l'utérus à la poche de la mère en le léchant. Sugar Glider peut donner naissance à 1-2 oursons et même 3 oursons, mais c'est rare.",
+    "ip_des": "Après la naissance de l'enfant et son entrée dans la poche de la mère, cette masse est appelée masse In Pouch ou communément appelée IP. La masse IP varie de 1,5 à 2 mois. La durée Ip dépend du nombre de joeys dans le sac. Joey sortira du sac quand il ne rentrera plus dans le sac. Habituellement, s'il y a 2 joeys dans le sac, le temps IP est d'environ 1,5 mois et s'il n'est que de 1, le temps IP est d'environ 2 mois.",
+    "op_des": "Mass OP messe où Joey est sorti du sac mais tète toujours sa mère",
+    "oop_des": "Quand un joey est sorti du sac et ne tète plus, c'est ce qu'on appelle une masse OOP. En général, à partir de cette période, l'âge du nouveau SG est calculé. Et généralement Joey commence l'auto-apprentissage."
+  },
+  "makanan": "Nourriture",
+  "makananchild": {
+    "attention": "Les aliments Sugar Glider en général comprennent :\n",
+    "apel": "1. Pomme",
+    "apel_des": "Les nutriments contenus dans les pommes tels que la vitamine C, l'eau, les glucides, la vitamine A, la vitamine K, la vitamine B1 et la vitamine B6 sont des nutriments très sains et bénéfiques pour le corps du planeur de sucre. En plus d'être presque sans matières grasses et faibles en calories, les pommes sont également riches en antioxydants et en fibres.\n\nBien que la texture du fruit soit assez dure, elle est très bonne pour stimuler les dents de cet animal volant. L'alimentation de ces pommes peut se faire 2 fois par semaine et peut être servie en petits morceaux ou en purée sans avoir besoin de peler la peau.",
+    "pepaya": "2. Papaye",
+    "pepaya_des": "Non seulement il contient suffisamment de vitamine C, mais la papaye contient également des protéines, des fibres, des glucides, de la vitamine A, de la vitamine B1, de la vitamine B3, de la vitamine B5, de la vitamine E, de la vitamine K et du calcium.\n\nLe contenu est certainement capable de respecter la dose nutritionnelle quotidienne et de maintenir la santé digestive de Sugar Glider.\n\nLa présentation peut être dans un état qui a été coupé en petits morceaux ou transformé en bouillie (purée).",
+    "wortel": "3. Carottes",
+    "wortel_des": "Une carotte entière contient beaucoup d'eau et de glucides.\n\nBien que la teneur en protéines soit faible, les carottes sont riches en vitamines, telles que la vitamine A, la vitamine B, la vitamine C, la vitamine E et la vitamine K et la teneur en calcium est d'environ 3 %.\n\nLes carottes de service peuvent se présenter sous la forme de fines tranches rondes. Mais tous les Sugar Glider n'aiment pas cette carotte. ",
+    "madu": "4. Miel",
+    "madu_des": "Le miel est un aliment naturel à l'état sauvage qui est le plus apprécié par Sugar Glider. Le miel a un goût sucré distinct car il contient du fructose et du glucose, qui sont meilleurs que le sucre.\n\nLa teneur en calories du sucre est capable d'absorber les graisses, il est donc très bon de réduire le risque d'obésité dans Sugar Glider.\n\nLa portion de miel peut être mélangée à de la nourriture bursun, mélangée à une boisson ou peut être directement donnée au Sugar Glider.",
+    "uh": "5. Vers de farine",
+    "uh_des": "La chenille de Hong Kong (ver de farine) est un type de chenille très apprécié par Sugar Glider. Mais ne donnez pas trop de chenilles de Hong Kong, car la teneur élevée en graisses des chenilles de Hong Kong peut provoquer l'obésité chez Sugar Glider (obésité).\n\nIl suffit de donner 5 à 10 chenilles Hong Kong vivantes pour les adultes Sugar Glider, tandis que 1 à 5 pour les enfants Sugar Glider âgés de 2-3 mois avec 2 fois par semaine.",
+    "jangkrik": "6. Grillon",
+    "jangkrik_des": "Il y a une très haute teneur en protéines d'environ 12,9 grammes contenue dans 100 grammes de grillons.\n\nDonner suffisamment de 5 à 10 grillons encore vivants, à raison de 2 à 3 fois par semaine.",
+    "telurrebus": "8. Egguf à la coque",
+    "telurrebus_des": "Les œufs durs sont une très bonne source de protéines riches en nutriments, très faciles à consommer, ce qui permet de faire grossir rapidement Sugar Glider.\n\nUn œuf dur entier contient 6 grammes de protéines et 9 acides aminés.\n\nLe contenu nutritionnel est assez complet comme les glucides, le calcium, le phosphore, la vitamine A et la vitamine B.\n\nLa portion est suffisante pour un ou la moitié des œufs durs qui ont été pelés et coupés en petits morceaux.",
+    "kecoadubia": "7. Cafard Dubia",
+    "kecoadubia_des": "Le cafard dubia est également devenu l'un des choix du propriétaire pour son bien-aimé Sugar Glider en raison de sa teneur élevée en protéines."
+  },
+  "jenis": "Les types",
+  "jenischild": {
+    "cg": "La race Classic Grey a une fourrure grise et une bande noire qui va de la tête au dos, ainsi qu'une bande sombre qui va des yeux aux oreilles.",
+    "wf": "Le type White Face a un motif similaire au Classic Grey mais avec un visage blanc et aucune marque noire près des oreilles",
+    "wt": "Ce type de White Tip a une fourrure blanche sur le bout de la queue",
+    "rt": "Le type Ringtail a une fourrure semblable au gris, mais il existe une variante de fourrure noire qui est circulaire comme un anneau sur sa queue blanche",
+    "mo": "Le type Mosaic a un mélange de couleurs entre les types de visage Leucistic et White avec des taches de couleur comme partiellement effacées sur le corps",
+    "leu": "Le type leucistique a un pelage blanc uni avec des yeux noirs",
+    "al": "Semblable à Leucistic, le type Albino a une fourrure blanche avec des yeux rouges en raison d'un trouble génétique",
+    "plat": "Le type Platinum a une couleur de pelage gris pâle qui ressemble à délavé",
+    "bb": "Le type Black Beauty a une fourrure similaire au Classic Grey mais de couleur foncée sur tout le corps avec des lignes épaisses sur le visage comme si elle se confondait avec la ligne du cercle des yeux.",
+    "creamino": "Le type Creamino a une fourrure de couleur crème dorée avec des yeux rouges",
+    "piebald": "Le type Piebald a une forme physique telle qu'une combinaison de types gris et leucestiques classiques",
+    "tpm": "Le type True Platinum Mosaic est l'un des planeurs de sucre morph du type mosaïque"
+  },
+  "perawatan": "Lequel",
+  "perawatanchild": {
+    "memandikan": "Baignade",
+    "memandikanchild": {
+      "attention": "Choses à considérer avant de se baigner les planeurs de sucre :",
+      "attention_des": "1. Le planeur de sucre est en bonne santé\n2. Un meilleur planeur de sucre qui a été apprivoisé\n3. Sugar Glider est calme et non stressé\n4. Prendre un bain de Sugar Glider le matin, c'est mieux",
+      "aNb": "Outils et matériaux",
+      "aNb_des": "1. Lingettes humides sans alcool\n2. Serviettes",
+      "langkah": "Pas",
+      "langkah_des": "1. Retirez le planeur à sucre de la cage, utilisez une serviette si le planeur à sucre n'est pas encore apprivoisé.\n\n2. Assurez-vous d'abord que le Sugar Glider se sente en sécurité en le frottant.\n\n3. Lavez le corps du Sugar Glider avec un tissu humide sans alcool à chaque coin.\n\n4. Ensuite, essuyez lentement le planeur de sucre avec une serviette douce et sèche.\n\n5. Remettez-le dans la cage et laissez-le se reposer et se sécher.\n\nNe baignez pas votre Sugar Glider trop souvent car il peut nettoyer le corps tout seul."
+    },
+    "potongkuku": "Coupe des ongles",
+    "potongkukuchild": {
+      "attention": "Choses à considérer avant de couper les ongles de planeur de sucre :",
+      "attention_des": "1. Le planeur de sucre est en bonne santé\n2. Un meilleur planeur de sucre qui a été apprivoisé\n3. Sugar Glider est calme et non stressé",
+      "aNb": "Outils et matériaux",
+      "aNb_des": "1. Coupe-ongles\n2. Petites poches ou serviettes",
+      "langkah": "Pas",
+      "langkah_des1": "1. Assurez-vous d'abord que le Sugar Glider se sente en sécurité en le frottant.\n\n2. Mettez le Sugar Glider dans un petit sac ou vous pouvez l'envelopper avec une serviette et ensuite prendre la jambe que vous souhaitez couper vos ongles.",
+      "langkah_des2": "3. Faites attention à la limite de coupe sur les ongles du planeur en sucre. Assurez-vous que les ongles du planeur de sucre ne sont pas trop courts. La partie de l'ongle qui est coupée ne doit pas toucher ce qu'on appelle le vif ou la chair. Ne coupez que la partie coupante.\n\n4. Coupez les ongles du planeur de sucre avec les coupe-ongles préparés, il est recommandé de les couper avec des coupe-ongles spéciaux pour animaux de compagnie.\n\n5. Ensuite, entrez le Sugar Glider dans la cage et donnez-lui sa nourriture préférée.\n\nLa coupe des ongles de planeur de sucre peut être faite en 2 semaines."
+    },
+    "penyakit": "Maladie",
+    "penyakitchild": {
+      "attention": "Les maladies du planeur de sucre comprennent :",
+      "hairloss": "Perte de cheveux",
+      "hairloss_des": "La chute des cheveux est un type de maladie du planeur de sucre qui provoque la chute des poils. Habituellement, la principale cause de cette maladie est due à une cage sale, au manque de nutriments et de protéines et au stress.\n\nPour que le Sugar Glider ne soit pas exposé à la chute des cheveux, il est recommandé de toujours garder la cage et ses alentours propres, au moins 2 fois par semaine, notamment en nettoyant la pochette.",
+      "diare": "La diarrhée",
+      "diare_des": "Les planeurs de sucre qui ont la diarrhée souffriront d'indigestion et, s'ils ne sont pas traités immédiatement, entraîneront la mort. La cause principale est la source de nourriture, ou la mauvaise nourriture. Il est recommandé de ne pas nourrir trop souvent les insectes, ni la bouillie trop liquide. Combinez la nourriture de planeur de sucre avec des fruits ou autres.",
+      "katarak": "Cataracte",
+      "katarak_des": "Les cataractes sont causées par la consommation d'aliments trop riches en graisses, de sorte que la nutrition dans le corps n'est pas équilibrée et peuvent également être causées par la lumière directe du soleil. Cette maladie se caractérise par l'apparition de taches blanches dans les yeux du planeur à sucre, qui se propageront ensuite dans les yeux jusqu'à ce qu'ils finissent par devenir aveugles.\n\nLe traitement de la maladie de la cataracte est très difficile à gérer. si vous ne le traitez pas immédiatement, ce sera plus difficile ou même des cataractes pour toujours. Par conséquent pour maintenir la prise de Sugar Glider correctement.",
+      "kakibengkak": "Pied enflé",
+      "kakibengkak_des": "Les pieds de planeur de sucre qui subissent un gonflement sont généralement dus à une infection bactérienne attachée à la plaie du pied du planeur de sucre. La maladie est causée par une arène en cage sale afin que les bactéries puissent se développer et se développer librement.\n\nS'il n'est pas traité immédiatement, ce gonflement se décomposera et stressera le planeur de sucre, ce qui entraînera la mort."
+    }
+  },
+  "kelamin": "Genre",
+  "kelaminchild": {
+    "attention": "Comment distinguer le sexe de Sugar Glider :",
+    "jantan": "Male",
+    "jantan_des": "Les planeurs de sucre mâles n'ont pas de poches sur leur corps. Les planeurs à sucre mâles ont une odeur d'urine plus piquante que les planeurs à sucre femelles qui servent à marquer leur territoire. À l'âge d'environ 5 mois, les planeurs de sucre masculins connaîtront des changements physiques, à savoir une calvitie sur le dessus de la tête. Plus le planeur de sucre est âgé, plus les taches chauves sur la tête sont évidentes. Cette calvitie est un signe que les glandes olfactives commencent à se développer.",
+    "betina": "Femelle",
+    "betina_des": "Les planeurs de sucre femelles ont des poches sur leur corps. La poche sur ce planeur de sucre femelle sert à prendre soin de ses petits."
+  },
+  "about1": {
+    "about1title": "Qu'est-ce que Sugar Glider",
+    "about1caption": "Sugar Glider (Petaurus breviceps) est un petit animal omnivore, arboricole et nocturne.",
+    "about1_des": "Les planeurs à sucre (Petaurus breviceps) sont de petits animaux omnivores, arboricoles et nocturnes. Cet animal peut planer et possède une poche (Infraclasse). Ce nom commun fait référence à son penchant pour les aliments sucrés tels que le nectar et sa capacité à planer dans les airs, comme un écureuil volant.\n     \nLes planeurs à sucre peuvent être trouvés dans le nord et l'est de l'Australie continentale, de la Tasmanie, de la Nouvelle-Guinée et des îles connexes telles que l'archipel de Bismarck, les îles Louisiade et certaines îles indonésiennes telles que les îles Halmahera dans le nord des Moluques.\n\nCes derniers temps, cet animal est très populaire car c'est un animal de compagnie mignon et adorable. L'âge du Sugar Glider est également assez long, il peut avoisiner les 10-15 ans. Les planeurs de sucre qui ont encore 0-3 mois sont appelés Joey et ceux âgés au-dessus sont appelés planeurs de sucre adultes"
+  },
+  "about2": {
+    "about2title": "Avant l'adoption",
+    "about2caption": "Préparation avant adoption",
+    "komitmen": "1. Engagement",
+    "komitmen_des": "En maintenant notre planeur Sugar en tant que propriétaire, nous devons nous engager à le maintenir. À commencer par être en mesure de fournir des aliments nutritifs, des cages spacieuses, des endroits confortables et aussi suffisamment de temps pour socialiser avec nos animaux de compagnie.",
+    "komunitas": "2. Rejoignez la communauté",
+    "komunitas_des": "Rejoindre la communauté des planeurs Sugar aide vraiment le propriétaire à entretenir ces animaux uniques. Parce que nous, en tant que propriétaires, pouvons plus librement interroger les problèmes auxquels le propriétaire est confronté concernant les planeurs Sugar et sont directement traités par des personnes expérimentées.",
+    "tips": "3. Conseils pour choisir un Sugar Glider",
+    "tips_des": "Si vous souhaitez adopter SG, vous devez d'abord connaître les caractéristiques de SG correctement et correctement. Car de nombreux cas de fraudes sont perpétrés par des vendeurs irresponsables comme la vente de FS (Flying Squirrel) mais le vendeur dit qu'il s'agit de SG. Ceci est également causé par le propriétaire qui ne fait pas attention et ne connaît pas physiquement SG\n \nRecherchez un éleveur de confiance ou un éleveur SG.Il est recommandé de faire une enquête directe auprès de la maison de l'éleveur ou du vendeur afin que vous puissiez voir immédiatement avant l'adoption. Demandez au vendeur de montrer les dents de SG si elles sont complètes ou coupées, de nombreux SG se font couper les dents dans le but de les faire paraître apprivoisées, mais les SG dont les dents sont coupées la plupart du temps ont souvent des abcès qui font disparaître leur appétit, en conséquence SG va mourir rapidement.\n \nVous pouvez adopter un SG de 3 mois car on peut dire qu'il est indépendant. Et si vous adoptez SG à un jeune âge, SG créera rapidement des liens avec le propriétaire."
+  },
+  "about3": {
+    "about3title": "Configuration de la cage",
+    "about3caption": "Une bonne cage affectera le confort du planeur de sucre. La configuration générale d'une cage Sugar Glider comprend :",
+    "pilihkandang": "1. Choisissez la cage idéale",
+    "pilihkandang_des": "Il existe de nombreux types de cages pour SG , mais le plus important est que la cage est grande et comporte un petit segment de trou. En général, le propriétaire utilise une cage en fer d'une taille de 60x43x43 (LxlxH) car la surface de cette cage est suffisante pour que Sugar Glider puisse jouer.",
+    "aksesoris": "2. Accessoires dans la cage",
+    "aksesoris_des": "Les planeurs à sucre sont des animaux nocturnes ou nocturnes qui ont l'habitude de dormir dans les arbres lorsqu'ils sont à l'état sauvage. Afin de ressembler à l'habitat naturel et de le rendre confortable, nous pouvons fournir une pochette en bois ou une maison d'oiseau sûre.\n\nUn bâton de bois sert également à aiguiser les dents et les ongles de SG. En choisissant des bois sûrs comme le bois d'eucalyptus, de manzanita ou de pommier ou de caféier (mais ce bois doit être remplacé souvent car s'il est exposé à l'urine ce bois deviendra humide et le pelage du planeur à sucre jaunira s'il est exposé à la bois).\n\nEt n'oubliez pas de fournir un endroit pour manger et boire pour Sugar Glider. Habituellement, le propriétaire utilise un petit endroit en plastique pour manger ou une assiette en plastique pour le SG car il est léger et facile à nettoyer. Pour les débits de boissons, le propriétaire utilise généralement une bouteille spéciale pour animaux de compagnie, car elle est simple et ne se renverse pas facilement.\n\nDe plus, les planeurs à sucre sont également des animaux intelligents ou intelligents, ils doivent donc être stimulés pour ne pas être stressés ou déprimés. Cette condition stressante peut déclencher d'autres problèmes de santé qui sont certainement très évitables.\n\nPar conséquent, nous pouvons ajouter des jouets pour la stimulation cérébrale et physique. Certains utilisent également des jeux de rouet, des chaînes, etc. ainsi ils grandiront en bonne santé et actifs.",
+    "alas": "3. Tapis de fumier",
+    "alas_des": "Le tapis de litière doit également être pris en compte pour que le SG se sente à l'aise et évite diverses maladies. En général, le propriétaire donne du sable parfumé sur la base compte tenu de la saleté SG qui est assez malodorante. Il y a aussi ceux qui utilisent de la sciure de bois fine car elle peut facilement absorber l'humidité, mais l'inconvénient de cette sciure de bois est qu'elle devient rapidement humide et se disperse facilement."
+  },
+  "donate": "Faire un don",
+  "donate_des": "Faites un don aux développeurs en regardant des publicités.",
+  "cancel": "Annuler"
+}

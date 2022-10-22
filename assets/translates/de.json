@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hello World",
+  "snackbartxt": "language has been changed!",
+  "ternak": "Zucht",
+  "ternakchild": {
+    "attention": "Bevor Sie Sugar Glider koppeln, müssen die folgenden Faktoren berücksichtigt werden:\n1. Komfortable Umgebung\n2. Ausreichend Futter\n3. Der Käfig ist recht geräumig und sauber\n4. Suger Glider ist gesund\n5. Stellen Sie sicher, dass sie alle läufig sind (Männchen sind 8 Monate alt und Hündinnen 9 Monate alt).",
+    "penjodohan": "Spielersuche",
+    "kawin": "Paarung",
+    "kawin_des": "Wenn die Paarungsphase gut verläuft, dann warten Sie auf die Paarungszeit. Der Kimpoy-Prozess dauert normalerweise lange genug, um die ganze Nacht zu dauern. Aus diesem Grund stellen Sie bitte nahrhaftes Essen zur Verfügung, um die Ausdauer von Sugar Glider zu erhalten.",
+    "penjodohan_des": "Zunächst ist darauf zu achten, dass die beiden Zuckergleiter aufeinander abgestimmt sind, da viele Besitzer aufgrund von Fehlpaarungen nicht reproduzieren können.\n\nDas Paaren von Zuckergleitern kann erfolgen, indem die männlichen und weiblichen Käfige in der Regel innerhalb einer Woche nahe beieinander gebracht werden. Ziel ist es, dass sie sich anpassen und sich kennenlernen.\n\nDer Pairing-Prozess kann auch schneller sein, da der Besitzer den Zuckergleiter beobachten muss. Wenn man sieht, dass sie freiwillig sind (Anflug statt Schlag), dann kann das weibliche Zuckersegelflugzeug in den männlichen Käfig integriert werden. Das Spiel Sugar Glider ist gekennzeichnet durch zwei Personen, die sich gegenseitig berühren.",
+    "hamil": "Schwanger",
+    "hamil_des": "Nach der Paarungszeit wird Sugar Glider eine Tragzeit von ungefähr 15-18 Tagen erleben. Während der Schwangerschaft ist es für uns fast unmöglich, physisch zu wissen, dass Sugar Glider schwanger ist. Normalerweise zeichnet sich schwangerer Sugar Glider durch Stille, verminderten Appetit im Beutel und ein wenig Empfindlichkeit aus.",
+    "melahirkan": "Geboren",
+    "melahirkan_des": "Bei dieser Geburt bringt die Mutter die Größe eines Reiskorns zur Welt. Das Kind wird dann durch Lecken vom Mutterleib in den Beutel der Mutter vermehrt. Sugar Glider kann 1-2 Joeys oder sogar 3 Joeys zur Welt bringen, aber das ist selten.",
+    "ip_des": "Nachdem das Kind geboren ist und in den Beutel der Mutter gelangt, wird diese Art von Klumpen als Beutelklumpen oder allgemein als IP bezeichnet. Die IP-Qualität reicht von 1,5 bis 2 Monaten. Die Dauer der IP hängt von der Anzahl der Joeys im Paket ab. Wenn die Tasche nicht passt, kommt Joey aus der Tasche. Normalerweise beträgt die IP-Zeit bei 2 joeys im Paket ca. 1,5 Monate, wenn nur einer vorhanden ist, beträgt die IP-Zeit ca. 2 Monate.",
+    "op_des": "Während der Massen-OP kam Joey raus, kümmerte sich aber immer noch um seine Mutter",
+    "oop_des": "Wenn ein Joey aus der Tüte kommt und keine Milch mehr isst, ist dies die sogenannte OOP-Qualität. In der Regel wird aus diesem Zeitraum das Alter des neuen SG berechnet. Normalerweise fängt Joey an, sich selbst beizubringen."
+  },
+  "makanan": "Essen",
+  "makananchild": {
+    "attention": "Zuckergleiterfutter umfasst im Allgemeinen:\n",
+    "apel": "1. Apfel",
+    "apel_des": "Das im Apfel enthaltene Vitamin C, Wasser, Kohlenhydrate, Vitamin A, Vitamin K, Vitamin B1, Vitamin B6 und andere Nährstoffe sind sehr gesund und wohltuend für den Körper des Zuckergleiters. Äpfel sind nicht nur fast fettfrei und kalorienarm, sondern auch reich an Antioxidantien und Ballaststoffen.\n\nObwohl die Textur der Frucht relativ hart ist, ist sie sehr gut geeignet, um die Zähne dieses fliegenden Tieres zu stimulieren. Diese Äpfel können zweimal pro Woche gefüttert werden und können ohne Schälen in kleine Stücke geschnitten oder püriert werden.",
+    "pepaya": "2. Papaya",
+    "pepaya_des": "Papaya enthält nicht nur ausreichend Vitamin C, sondern auch Protein, Ballaststoffe, Kohlenhydrate, Vitamin A, Vitamin B1, Vitamin B3, Vitamin B5, Vitamin E, Vitamin K und Kalzium.\n\nDer Inhalt kann definitiv die tägliche Nährstoffdosis von Sugar Glider erfüllen und die Gesundheit des Verdauungssystems erhalten.\n\nDer präsentierte Zustand kann in kleine Stücke geschnitten oder zu Brei (Püree) verarbeitet werden. ",
+    "wortel": "3. Rübe",
+    "wortel_des": "Eine ganze Karotte enthält viel Wasser und Kohlenhydrate.\n\nObwohl Karotten einen geringen Proteingehalt haben, sind sie reich an Vitaminen wie Vitamin A, Vitamin B, Vitamin C, Vitamin E und Vitamin K. Der Kalziumgehalt beträgt etwa 3%.\n\nDie Karotten können in Form von dünnen runden Scheiben geliefert werden. Aber nicht alle Sugar Glider mögen diese Karotte.",
+    "madu": "4. Honig",
+    "madu_des": "Honig ist ein natürliches Nahrungsmittel in freier Wildbahn und wird am meisten von Zuckersegelflugzeugen bevorzugt. Honig hat eine ausgeprägte Süße, da er Fruktose und Glukose enthält, die besser sind als Zucker.\n\nDer Kaloriengehalt von Zucker kann Fett absorbieren, daher ist der Sugar Glider sehr hilfreich, um das Risiko von Fettleibigkeit zu reduzieren.\n\nDie Honigmenge kann mit Bursun-Futter gemischt, zum Trinken gemischt oder direkt an Sugar Glider verfüttert werden.",
+    "uh": "5. Pulverinsekten",
+    "uh_des": "Mehlwurm ist eine Raupenart, die Sugar Glider sehr mag. Aber geben Sie Hongkong-Raupen nicht zu viel, denn der hohe Fettgehalt der Hongkong-Raupen kann bei Sugar Glider Fettleibigkeit (Fettleibigkeit) verursachen.\n\nAdult Sugar Glider kann 5-10 lebende Hongkong-Raupen und 1-5 Sugar Glider-Kindern im Alter von 2-3 Monaten zweimal pro Woche geben.",
+    "jangkrik": "6. Grillen",
+    "jangkrik_des": "100 Gramm Grillen enthalten etwa 12,9 Gramm Protein.\n\nGeben Sie 2-3 Mal pro Woche ausreichend 5-10 Grillen, die noch am Leben sind.",
+    "telurrebus": "8. Gekochte Eier",
+    "telurrebus_des": "Gekochte Eier sind eine ausgezeichnete Proteinquelle, reich an Nährstoffen und sehr leicht zu essen, so dass Sugar Glider schnell an Gewicht zunehmen kann. Ein ganzes gekochtes Ei enthält 6 Gramm Protein und 9 Arten von Aminosäuren.\n\nKohlenhydrate, Kalzium, Phosphor, Vitamin A, Vitamin B und andere Nährstoffe sind ziemlich vollständig.\n\nEine Portion oder die Hälfte eines hartgekochten Eies reicht aus, geschält und in kleine Stücke geschnitten.",
+    "kecoadubia": "7. Kakerlake Dubia",
+    "kecoadubia_des": "Aufgrund seines hohen Proteingehalts ist Blattella dubia zu einer der beliebtesten Sugar Glider-Optionen der Besitzer geworden."
+  },
+  "jenis": "Typen",
+  "jenischild": {
+    "cg": "Die klassische graue Variante hat graues Fell und einen schwarzen Streifen vom Kopf bis zum Rücken und einen schwarzen Streifen von den Augen bis zu den Ohren.",
+    "wf": "Das Muster des weißen Gesichtstyps ähnelt dem klassischen Grau, aber das Gesicht ist weiß und es gibt keine schwarzen Markierungen in der Nähe der Ohren",
+    "wt": "Dieser weiße Spitzenschwanz hat weiße Haare an der Spitze",
+    "rt": "Der Katta hat graue Federn, es gibt aber auch schwarze Varianten, deren weiße Schwänze ringförmig sind.",
+    "mo": "Der Mosaik-Typ hat eine Farbkombination zwischen leuzistischen und weißen Gesichtstypen, mit teilweise gelöschten Farbflecken auf dem Körper",
+    "leu": "Der leuzistische Typ hat ein rein weißes Fell und schwarze Augen",
+    "al": "Ähnlich wie Leucistic hat Typ Albino aufgrund genetischer Erkrankungen weißes Fell und rote Augen",
+    "plat": "Der Platintyp hat eine hellgraue Fellfarbe, die wie verblasst aussieht",
+    "bb": "Das Fell der schwarzen Schönheit ähnelt dem klassischen Grau, aber der ganze Körper ist dunkel, mit dicken Linien im Gesicht, als ob es mit der Augenringlinie verschmilzt.",
+    "creamino": "Creamino hat goldenes cremefarbenes Fell und rote Augen",
+    "piebald": "Piebald-Typen haben physische Formen, wie eine Kombination aus klassischen grauen und leuzestischen Typen",
+    "tpm": "Der echte Platinmosaiktyp ist einer der verformten Zuckergleiter vom Mosaiktyp"
+  },
+  "perawatan": "Welcher",
+  "perawatanchild": {
+    "memandikan": "Baden",
+    "memandikanchild": {
+      "attention": "Dinge, die Sie vor dem Baden von Sugar Glider beachten sollten :",
+      "attention_des": "1. Sugar Glider ist gesund\n2. Bessere Zuckergleiter wurden gezähmt\n3.Sugar Glider, beruhige dich und nicht nervös\n4. Es ist besser, Sugar Glider morgens zu baden",
+      "aNb": "Werkzeuge und Materialien",
+      "aNb_des": "1. Alkoholfreie Tücher\n2. Handtücher",
+      "langkah": "Tempo",
+      "langkah_des": "1. Entfernen Sie den Zuckergleiter aus dem Käfig.Wenn der Zuckergleiter nicht gezähmt wurde, verwenden Sie bitte ein Handtuch.\n\n2. Sorgen Sie zuerst dafür, dass sich Sugar Glider durch Reibung sicher fühlt.\n\n3. Reinigen Sie jede Ecke des Sugar Glider-Körpers mit einem alkoholfreien feuchten Tuch.\n\n4. Wischen Sie dann den Zuckergleiter langsam mit einem weichen und trockenen Tuch ab.\n\n5. Setzen Sie ihn zurück in den Käfig, lassen Sie ihn ruhen und trocknen.\n\nBaden Sie Ihren Sugar Glider nicht oft, da er Ihren Körper von selbst reinigen kann."
+    },
+    "potongkuku": "Nägel schneiden",
+    "potongkukuchild": {
+      "attention": "Dinge, die Sie vor dem Schneiden von Zuckergleiternägeln beachten sollten:",
+      "attention_des": "1. Sugar Glider ist gesund\n2. Bessere Zuckergleiter wurden gezähmt\n3. Sugar Glider, beruhige dich und nicht nervös",
+      "aNb": "Werkzeuge und Materialien",
+      "aNb_des": "1. Nagelknipser\n2. Kleine Tasche oder Handtuch",
+      "langkah": "Tempo",
+      "langkah_des1": "1. Sorgen Sie zuerst dafür, dass sich Sugar Glider durch Reibung sicher fühlt.\n\n2. Legen Sie den Sugar Glider in eine kleine Tasche oder wickeln Sie ihn in ein Handtuch ein und nehmen Sie dann das Bein auf, an dem Sie Ihre Nägel schneiden möchten.",
+      "langkah_des2": "3. Achten Sie auf die Schnittbeschränkungen von Zuckergleiternägeln. Achten Sie darauf, dass die Nägel des Zuckergleiters nicht zu kurz sind. Der abgeschnittene Nagelteil sollte den schnellen Nagel oder das Fleisch nicht berühren. Nur scharfe Teile schneiden.\n \n4. Verwenden Sie den vorbereiteten Nagelknipser, um die Nägel des Zuckergleiters abzuschneiden.Es wird empfohlen, den Nagelknipser für Haustiere zu verwenden.\n \n5. Setzen Sie dann den Zuckergleiter in den Käfig und geben Sie ihm sein Lieblingsfutter.\n \nSugar Glider Nagelschneiden kann in 2 Wochen abgeschlossen sein."
+    },
+    "penyakit": "Krankheit",
+    "penyakitchild": {
+      "attention": "Zu den Krankheiten von Zuckersegelflugzeugen gehören:",
+      "hairloss": "Haarverlust",
+      "hairloss_des": "Haarausfall ist eine Zuckerkrankheit, die dazu führt, dass Körperbehaarung ausfällt. Normalerweise sind die Hauptursachen für diese Krankheit schmutzige Käfige, Mangel an Nährstoffen und Proteinen sowie Stress.\n\nUm zu verhindern, dass Sugar Glider Haare verliert, wird empfohlen, den Käfig und die Umgebung mindestens zweimal pro Woche sauber zu halten, insbesondere den Beutel.",
+      "diare": "Durchfall",
+      "diare_des": "Durchfall Zuckergleiter können Verdauungsstörungen verursachen, die zum Tod führen können, wenn sie nicht sofort behandelt werden. Der Hauptgrund ist die Quelle des Essens oder das falsche Essen. Es wird empfohlen, Insekten nicht zu häufig oder zu dünnen Brei zu füttern. Mischen Sie Zuckergleiterfutter mit Obst oder anderen Lebensmitteln.",
+      "katarak": "Katarakt",
+      "katarak_des": "Katarakte werden durch die Aufnahme von zu fetthaltigen Lebensmitteln verursacht, die zu einer unausgewogenen Ernährung des Körpers führen können, aber auch durch direkte Sonneneinstrahlung. Diese Krankheit ist durch das Auftreten von weißen Flecken in den Augen von Zuckersegelflugzeugen gekennzeichnet, die sich dann auf die gesamten Augen ausbreiten, bis sie schließlich erblinden.\n\nDie Behandlung der Katarakterkrankung ist sehr schwierig. Wenn Sie es nicht sofort behandeln, wird es schwieriger und sogar dauerhafter grauer Star. Halten Sie daher die Einnahme von Sugar Glider richtig ein.",
+      "kakibengkak": "Geschwollene Füße",
+      "kakibengkak_des": "Angeschwollene Zuckergleiterfüße werden normalerweise durch bakterielle Infektionen verursacht, die an den Wunden der Zuckergleiterfüße befestigt sind. Diese Krankheit wird durch eine schmutzige Käfigarena verursacht, sodass Bakterien frei wachsen und sich entwickeln können.\n\nWenn sie nicht sofort behandelt wird, kann diese Schwellung verrotten und Druck auf den Zuckergleiter ausüben, was zum Tod führt."
+    }
+  },
+  "kelamin": "Geschlecht",
+  "kelaminchild": {
+    "attention": "So unterscheiden Sie das Geschlecht von Sugar Glider:",
+    "jantan": "männlich",
+    "jantan_des": "Es gibt keine Beutel am Körper des männlichen Zuckersegelflugzeugs. Männliche Zuckersegelflugzeuge haben einen stechenderen Uringeruch als weibliche Zuckersegelflugzeuge und werden verwendet, um ihr Territorium zu markieren. Im Alter von etwa 5 Monaten hat der männliche Zuckergleiter die Chance, körperliche Veränderungen zu erleben, nämlich eine Glatze am Oberkopf. Je älter der Zuckergleiter, desto deutlicher sind die kahlen Stellen am Kopf. Diese Kahlheit weist darauf hin, dass Geruchsdrüsen zu wachsen begonnen haben.",
+    "betina": "Frau",
+    "betina_des": "Am Körper des weiblichen Zuckersegelflugzeugs befinden sich Taschen. Der Beutel dieses weiblichen Zuckergleiters dient zur Pflege ihrer Jungen."
+  },
+  "about1": {
+    "about1title": "Was ist ein Zuckergleiter?",
+    "about1caption": "Zuckergleiter (Petaurus breviceps) ist ein kleines, allesfressendes, baumbewohnendes und nachtaktives Tier.",
+    "about1_des": "Zuckergleiter (Petaurus breviceps) sind kleine, allesfressende, baumbewohnende und nachtaktive Tiere. Dieses Tier kann gleiten und hat einen Beutel (Infraklasse). Dieser gebräuchliche Name bezieht sich auf seine Vorliebe für süße Speisen wie Nektar und seine Fähigkeit, wie ein fliegendes Eichhörnchen durch die Luft zu schweben.\n     \nZuckersegelflugzeuge sind in den nördlichen und östlichen Teilen des australischen Festlandes, Tasmaniens, Neuguineas und verwandten Inseln wie dem Bismarck-Archipel, den Louisiade-Inseln und bestimmten indonesischen Inseln wie den Halmahera-Inseln in Nord-Maluku zu finden.\n\nIn letzter Zeit ist dieses Tier sehr beliebt, weil es ein süßes und entzückendes Haustier ist. Das Alter des Sugar Gliders ist auch ziemlich lang, es kann etwa 10-15 Jahre betragen. Zuckersegelflugzeuge, die 0-3 Monate alt sind, werden Joeys genannt und diejenigen, die älter sind, werden erwachsene Zuckersegelflugzeuge genannt"
+  },
+  "about2": {
+    "about2title": "Vor der Adoption",
+    "about2caption": "Vorbereitung vor der Adoption",
+    "komitmen": "1. Verpflichtung",
+    "komitmen_des": "Als Besitzer müssen wir uns bei der Wartung unseres Sugar-Gleiters verpflichten, ihn zu warten. Beginnen Sie damit, nahrhaftes Futter, geräumige Käfige, bequeme Plätze und genügend Zeit für die Geselligkeit mit unseren Haustieren bereitzustellen.",
+    "komunitas": "2. Treten Sie der Community bei",
+    "komunitas_des": "Der Beitritt zur Sugar Glider Community hilft den Besitzern wirklich, diese einzigartigen Tiere zu pflegen. Weil wir als Eigner die Probleme der Eigner mit Zuckergleitern freier hinterfragen können und erfahrene Leute direkt darauf antworten.",
+    "tips": "3. Tipps zur Auswahl von Sugar Glider",
+    "tips_des": "Wenn Sie SG verwenden möchten, müssen Sie zunächst die Eigenschaften von SG richtig und richtig herausfinden. Denn viele Betrugsfälle werden von unverantwortlichen Verkäufern durchgeführt, wie zum Beispiel der Verkauf von FS (Flughörnchen), aber der Verkäufer sagt, es sei SG. Dies wird auch durch die Unachtsamkeit des Autobesitzers verursacht und sein Körper erkennt SG . nicht\n \nFinden Sie einen vertrauenswürdigen SG-Züchter oder Züchter. Es wird empfohlen, eine direkte Untersuchung beim Züchter oder Verkäufer durchzuführen, damit Sie es unmittelbar vor der Adoption sehen können. Verkäufer müssen zeigen, ob die Zähne der SG intakt oder abgeschnitten sind.Viele SG-Schneidezähne werden verwendet, um sie gefügig aussehen zu lassen, aber die meisten SGs haben beim Einschneiden ihrer Zähne oft Abszesse, die zu Appetitlosigkeit und zum Tod von SGs führen können .\n \nSie können eine 3 Monate alte SG adoptieren, weil sie als unabhängig bezeichnet werden kann. Wenn Sie die SG in jungen Jahren adoptieren, dann stellt die SG schnell den Kontakt zum Besitzer her."
+  },
+  "about3": {
+    "about3title": "Käfigeinstellung",
+    "about3caption": "Ein guter Käfig beeinträchtigt den Komfort des Zuckergleiters. Die allgemeinen Einstellungen des Sugar Glider Käfigs umfassen:",
+    "pilihkandang": "1. Wählen Sie den idealen Käfig",
+    "pilihkandang_des": "Es gibt viele Arten von SG-Käfigen, aber das Wichtigste ist, dass der Käfig groß und der Lochquerschnitt klein ist. Im Normalfall verwendet der Besitzer einen 60x43x43 (LxBxH) Eisenkäfig, da die Fläche des Käfigs für Sugar Glider zum Spielen ausreicht.",
+    "aksesoris": "2. Zubehör im Käfig",
+    "aksesoris_des": "Zuckergleiter sind nachtaktive Tiere, die es gewohnt sind, in freier Wildbahn auf Bäumen zu schlafen. Um den natürlichen Lebensraum nachzuahmen und ihn komfortabel zu gestalten, können wir sichere Holzsäcke oder Vogelhäuschen zur Verfügung stellen.\n\nEin Stück Holz kann auch zum Schleifen von Zähnen und Nägeln von SG verwendet werden. Wählen Sie sicheres Holz wie Eukalyptus-, Manzanita- oder Apfel- oder Kaffeeholz (dieses Holz muss jedoch häufig ersetzt werden, da dieses Holz bei Kontakt mit Urin nass wird, wenn das Fell des Zuckergleiters freiliegt Die Luft wird gelb) Holz ).\n\nUnd vergessen Sie nicht, Sugar Glider einen Platz zum Essen und Trinken zur Verfügung zu stellen. Normalerweise verwendet der Besitzer einen kleinen Plastikplatz zum Essen oder einen Plastikteller für SG, da er sehr leicht und leicht zu reinigen ist. Für Trinkplätze verwendet der Besitzer normalerweise eine spezielle Haustierflasche, da sie einfach und nicht leicht zu verschütten ist\n\nDarüber hinaus sind Zuckergleiter auch kluge oder schlaue Tiere, daher müssen sie stimuliert werden, um sich nicht gestresst oder frustriert zu fühlen. Diese Art von Stress kann andere gesundheitliche Probleme verursachen, und diese Probleme können natürlich vermieden werden.\n\nDaher können wir Spielzeug hinzufügen, das das Gehirn und den Körper stimuliert. Manche Leute benutzen auch Spinnradspiele, Ketten usw., damit sie gesund und munter aufwachsen.",
+    "alas": "3. Stuhlkissen",
+    "alas_des": "Der Wurf muss auch berücksichtigt werden, damit sich SG wohl fühlt und verschiedene Krankheiten vermieden werden. Wenn man bedenkt, dass der SG-Schmutz sehr stinkend ist, wird der Besitzer im Allgemeinen wohlriechenden Sand auf die Basis geben. Manche Leute verwenden feines Sägemehl, weil es leicht Feuchtigkeit aufnimmt, aber der Nachteil dieser Art von Sägemehl ist, dass es schnell nass wird und sich leicht verstreuen lässt."
+  },
+  "donate": "Spenden",
+  "donate_des": "Spenden Sie an Entwickler, indem Sie Anzeigen ansehen.",
+  "cancel": "Abbrechen"
+}

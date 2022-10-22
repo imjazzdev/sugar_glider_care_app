@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hallo Dunia!",
+  "snackbartxt": "bahasa telah diubah!",
+  "ternak": "Breeding",
+  "ternakchild": {
+    "attention": "Sebelum mengawinkan Sugar Glider , ada faktor-faktor yang harus di perhatikan seperti:  \n1. Lingkungan yang nyaman \n2. Pakan yang tercukupi \n3. Kandang yang cukup luas dan bersih \n4. Suger Glider dalam keadaan sehat \n5. Pastikan keduanya sudah masuk masa birahi (jantan berumur 8 bulan dan betina berumur 9 bulan). \n",
+    "penjodohan": "Penjodohan",
+    "kawin": "Kawin",
+    "kawin_des": "Jika tahap penjodohan berjalan lancar, maka hanya tinggal menunggu waktu kimpoy. Proses kimpoy biasanya berdurasi cukup lama bisa sampai semalaman penuh lamanya. Untuk itu sediakanlah makanan bergizi agar stamina Sugar Glider tetap terjaga. ",
+    "penjodohan_des": "Awal mula pastikan kedua Sugar Glider tersebut berjodoh, hal ini penting karena banyak owner yang gagal breeding dikarenakan faktor tidak berjodoh. \n\nMenjodohkan Sugar Glider bisa dengan cara mendekatkan kedua kandang jantan dan betina biasanya dalam kurun waktu 1 minggu lamanya. Tujuannya agar mereka beradaptasi dan mengenal satu sama lain. \n\nProses penjodohan juga bisa saja lebih cepat, untuk itu owner diwajibkan mengobservasi Sugar Glider tersebut. Jika dilihat sudah suka sama suka (adanya pendekatan dan tidak strike) maka Sugar Glider betina sudah bisa di satukan ke dalam kandang jantan. Berjodoh nya Sugar Glider ditandai dengan keduanya saling mengelus-elus kan tubuh nya satu sama lain. ",
+    "hamil": "Hamil",
+    "hamil_des": "Setelah masa perkawinan, Sugar Glider akan mengalami masa hamil sekitar 15-18 hari.  Pada proses hamil inilah hampir tidak bisa kita ketahui sacara fisik bahwa Sugar Glider tersebut hamil. Biasanya Sugar Glider hamil ditandai dengan berdiam diri, di pouch nafsu makan berkurang, dan sedikit sensitive. ",
+    "melahirkan": "Melahirkan",
+    "melahirkan_des": "Pada masa melahirkan ini, sang induk melahirkan anaknya yang sebesar biji beras. Lalu sang anak dituntun merambat dari rahim  menuju ke kantong ibunya dengan cara di jilati. Sugar Glider dapat melahirkan 1-2 anak dan bahkan 3 anak, namun itu jarang terjadi. ",
+    "ip_des": "Setelah sang anak lahir dan masuk ke kantong induknya, massa ini disebut massa In Pouch atau biasa disebut IP. Massa ip berkisar 1,5-2 bulan lamanya. Lama waktu Ip tergantung dari jumlah joey yang ada di dalam kantong. Joey akan keluar dari kantong bila mana sudah tidak muat lagi di dalam kantong. Biasanya jika joey yang ada di dalam kantong 2 ekor waktu ip berkisar 1,5 bulan dan jika hanya 1-ekor waktu ip berkisar 2 bulan lamanya. ",
+    "op_des": "Massa OP massa dimana joey sudah keluar kantong namun masih menyusu pada induk nya ",
+    "oop_des": "Saat joey sudah keluar dari kantong dan tidak menyusu lagi, inilah yang sebut massa OOP. Pada umumnya, dari masa inilah umur SG baru dihitung. Dan biasanya joey mulai belajar mandiri."
+  },
+  "makanan": "Makanan",
+  "makananchild": {
+    "attention": "Makanan Sugar Glider pada umumnya antara lain : \n",
+    "apel": "1. Apel",
+    "apel_des": "Nutrisi yang terkandung dalam buah apel seperti vitamin C, air, karbohidrat, vitamin A vitamin K, vitamin B1 dan Vitamin B6 merupakan nutrisi yang sangat sehat bagi sugar glider. Selain hampir tidak mengandung lemak dan rendah kalori, buah apel juga kaya akan antioksidan dan serat.\n\nSedangkan tekstur buah yang agak keras sangat baik untuk merangsang pertumbuhan gigi hewan terbang ini. Pemberian makan buah apel ini bisa 2x dalam seminggu dan dapat disajikan dalam potongan kecil-kecil maupun dihaluskan tanpa perlu dikupas kulitnya.",
+    "pepaya": "2. Pepaya",
+    "pepaya_des": "Tidak hanya mengandung Vitamin C yang cukup tinggi, buah pepaya juga mengandung protein, serat, karbohidrat, Vitamin A, Vitamin B1, Vitamin B3, Vitamin B5, Vitamin E, Vitamin K dan Kalsium.\n\nPenyajiannya bisa dalam keadaan yang sudah dipotong kecil-kecil ataupun di buat bubur (dihaluskan).kulitnya. ",
+    "wortel": "3. Wortel",
+    "wortel_des": "Satu buah wortel utuh mengandung air dan karbohidrat yang cukup banyak. Wortel kaya akan vitamin, seperti Vitamin A, Vitamin B, Vitamin C, Vitamin E, serta Vitamin K dan kandungan Kalsium berkisar kurang lebih 3%.\n\nPenyajian wortel  bisa berupa potongan bundar tipis. Namun tidak semua Sugar Glider suka dengan wortel ini. ",
+    "madu": "4. Madu",
+    "madu_des": "Madu merupakan makanan alami di alam liar yang paling digemari oleh Sugar Glider. Madu memiliki rasa manis yang berbeda dikarenakan mengandung fruktosa dan glukosa, yang kandungannya lebih baik daripada gula.\n\nKandungan kalori gula mampu menyerap lemak, sehingga sangat baik untuk menekan resiko kegemukan pada Sugar Glider.\n\nPenyajian madu, bisa dicampur dengan makanan bursun, dicampukan ke minum, ataupun bisa disuapi langsung pada Sugar Glider. ",
+    "uh": "5. Ulet Hongkong",
+    "uh_des": "Ulat hongkong (mealworm) merupakan salah satu jenis ulat yang sangat disukai oleh Sugar Glider.  Namun jangan memberikan ulat hongkong secara berlebihan karena kandungan lemak yang cukup tinggi pada ulat hongkong dapat menimbulkan kegemukan pada Sugar Glider(obesitas).\n\nCukup memberikan 5-10 ekor ulat Hongkong yang masih hidup untuk Sugar Glider dewasa, sedangkan 1-5 ekor untuk anak Sugar Glider umur 2-3 bulan dengan pemberian sebanyak 2 kali dalam seminggu. ",
+    "jangkrik": "6. Jangkrik",
+    "jangkrik_des": "Terdapat protein sangat tinggi sekitar 12,9 gram terkandung dalam 100 gram jangkrik.\n\nPemberiannya cukup 5-10 ekor jangkrik yang masih hidup, dengan pemberian sebanyak 2-3x dalam seminggu.",
+    "telurrebus": "8. Telur Rebus",
+    "telurrebus_des": "Telur rebus adalah sumber protein tinggi yang sangat baik, padat akan gizi, sangat mudah dikonsumsi sehingga dapat membuat Sugar Glider cepat gemuk.\n\nSatu butir telur rebus utuh mengandung 6 gram protein dan 9 asam amino.Kandungan gizinya cukup lengkap seperti karbohidrat, kalsium, fosfor, Vitamin A, dan Vitamin B.\n\nPenyajiannya cukup satu butir maupun setengah butir telur rebus yang sudah dikupas dan dipotong kecil. ",
+    "kecoadubia": "7. Kecoa Dubia",
+    "kecoadubia_des": "Kecoa dubia juga menjadi salah satu pilihan owner untuk Sugar Glider tercinta karena kandungan protein yang begitu tinggi."
+  },
+  "jenis": "Jenis",
+  "jenischild": {
+    "cg": "Jenis Classic Grey memiliki bulu berwarna abu-abu dan garis berwarna hitam yang memanjang dari kepala sampai punggung, dan juga memiliki garis berwarna gelap yang menjulur dari mata hingga ke telinga",
+    "wf": "Jenis White Face memiliki corak yang mirip seperti Classic Grey namun dengan wajah putih dan tidak ada corak hitam didekat telinga-nya",
+    "wt": "Jenis White Tip ini memiliki ciri bulu berwarna putih pada bagian ujung ekornya",
+    "rt": "Jenis Ringtail memiliki bulu yang mirip seperti grey, namun terdapat bulu variasi berwarna hitam yang melingkar seperti cincin pada ekornya yang berwarna putih",
+    "mo": "Jenis Mosaic memiliki perpaduan warna antara jenis Leucistic dan White face dengan bercak corak warna seperti terhapus sebagian pada tubuhnya",
+    "leu": "Jenis Leucistic memiliki warna bulu yang putih polos dengan bola mata berwarna hitam",
+    "al": "Mirip seperti Leucistic, jenis Albino memiliki warna bulu yang putih dengan bola mata berwarna merah di karenakan ada kelainan genetik",
+    "plat": "Jenis Platinum memiliki warna bulu abu-abu yang samar seperti pudar",
+    "bb": "Jenis Black Beauty memiliki bulu yang mirip dengan Classic Grey namun berawarna gelap di sekujur tubuhnya dengan garis tebal di bagian wajahnya seolah menyatu dengan garis lingkar mata",
+    "creamino": "Jenis Creamino memiliki bulu berwarna cream keemasan dengan bola mata yang berwarna merah",
+    "piebald": "Jenis Piebald memiliki bentuk fisik seperti kombinasi antara jenis classic grey dan leucestic",
+    "tpm": "Jenis True Platinum Mosaic adalah salah satu morph sugar glider jenis mosaic"
+  },
+  "perawatan": "Perawatan",
+  "perawatanchild": {
+    "memandikan": "Memandikan",
+    "memandikanchild": {
+      "attention": "Hal yang harus diperhatikan sebelum memandikan Sugar glider : ",
+      "attention_des": "1. Sugar glider dalam kondisi sehat\n2. Lebih baik Sugar Glider yang sudah jinak \n3. Sugar Glider dalam keadaan tenang dan tidak stress\n4. Mandikan Sugar Glider pada pagi hari lebih baik ",
+      "aNb": "Alat & Bahan",
+      "aNb_des": "1. Tisu basah non alkohol\n2. Handuk ",
+      "langkah": "Langkah",
+      "langkah_des": "1. Keluarkan sugar glider dari kandang, gunakan handuk jika Sugar Glider belum jinak.\n\n2. Buatlah Sugar Glider merasa aman terlebih dahulu bisa dengan cara mengusap-usap nya.\n\n3. Basuh tubuh Sugar Glider dengan tisu basah non alkohol setiap sudut nya.\n\n4. Lalu lap sugar glider dengan handuk yang lembut dan kering secara perlahan.\n\n5.Letakkan kembali ke kandang dan biarkan dia beristihat dan mengeringkan tubuhnya.\n\nJangan terlalu sering memandikan Sugar Glider karena dia dapat membersihkan tubuh dengan sendirinya."
+    },
+    "potongkuku": "Potong Kuku",
+    "potongkukuchild": {
+      "attention": "Hal yang harus diperhatikan sebelum memotong kuku Sugar glider : ",
+      "attention_des": "1. Sugar glider dalam kondisi sehat\n2. Lebih baik Sugar Glider yang sudah jinak \n3. Sugar Glider dalam keadaan tenang dan tidak stres",
+      "aNb": "Alat & Bahan",
+      "aNb_des": "1. Gunting kuku\n2. Kantong kecil atau Handuk ",
+      "langkah": "Langkah",
+      "langkah_des1": "1. Buatlah Sugar Glider merasa aman terlebih dahulu bisa dengan cara mengusap-usap nya.\n\n2. Masukan Sugar Glider ke dalam kantong kecil atau bisa dengan di lilit dengan handuk lalu ambil kaki nya yang ingin dipotong kuku nya.",
+      "langkah_des2": "3. Perhatikan batas potong pada kuku sugar glider. Pastikan potong kuku sugar glider tidak terlalu pendek. Bagian kuku yang dipotong jangan sampai mengenai bagian yang disebut quick atau daging. Potonglah hanya bagian yang tajam nya saja.\n\n4. Potong kuku sugar glider dengan gunting kuku yang disiapkan, disarankan potong dengan gunting kuku khusus pet.\n\n5. Lalu masukan Sugar Glider kedalam kandang dan berikan makanan kesukaan nya. \n\nPotong kuku Sugar glider dapat dilakukan dalam 2 minggu sekali."
+    },
+    "penyakit": "Penyakit",
+    "penyakitchild": {
+      "attention": "Penyakit pada Sugar Glider antara lain :",
+      "hairloss": "Hairloss",
+      "hairloss_des": "Hairloss merupakan salah satu jenis penyakit sugar glider yang menjadikan bulu tubuhnya rontok. Biasanya penyebab utama penyakit ini adalah karna keadaan kandang yang kotor, kurangnya nutrisi dan protein serta stress.\n\nAgar Sugar Glider tidak terkena hairloss, disarankan untuk menjaga selalu keadaan kandang dan sekitar supaya tetap bersih, minimal dibersihkan 2 kali dalam 1 minggu, terutama membersihkan pounch nya. ",
+      "diare": "Diare",
+      "diare_des": "Sugar glider yang terserang diare akan mengalami gangguan pencernaan, dan jika tidak segera diatasi akan mengakibatkan kematian. Penyebab utamanya adalah sumber makanan, atau salah memberi makanan. Disarankan jangan terlalu sering memberi makan jenis serangga, atau bubur yang terlalu cair. Mengkombinasikan makanan sugar glider dengan buah-buahan atau lainnya. ",
+      "katarak": "Katarak",
+      "katarak_des": "Katarak disebabkan karena asupan makanan yang mengandung lemak terlalu tinggi sehingga gizi pada tubuhnya tidak seimbang dan bisa juga dikarenakan terkena sinar matahari langsung. Penyakit ini ditandai dengan munculnya bintik-bintik putih di mata sugar glider, yang kemudian akan merembet ke seluruh matanya sampai pada akhirnya mengalami kebutaan.\n\nJika tidak segera mengobatinya maka akan semakin sulit atau bahkan katarak selamanya. Maka dari itu jaga asupan Sugar Glider dengan baik. ",
+      "kakibengkak": "Kaki bengkak",
+      "kakibengkak_des": "Kaki sugar glider yang mengalami pembengkakan biasanya karena infeksi bakteri yang menempel pada luka kaki Sugar Glider. Penyakit tersebut disebabkan arena kandang yang kotor sehingga bakteri bisa tumbuh dan berkembang dengan bebas.\n\nJika tidak segera di tangani maka pembengkakan ini akan mengalami pembusukan dan membuat Sugar Glider stress yang akan berakibat kematian. "
+    }
+  },
+  "kelamin": "Kelamin",
+  "kelaminchild": {
+    "attention": "Cara membedakan jenis kelamin Sugar Glider : ",
+    "jantan": "Jantan",
+    "jantan_des": "Sugar glider jantan tidak memiliki kantong di tubuhnya. Sugar glider jantan mempunyai bau urine yang lebih menyengat dibanding sugar glider betina yang berfungsi untuk menandai wilayahnya. Di usia sekitar 5 bulanan sugar glider jantan akan mengalami perubahan fisik yaitu botak di kepala bagian atasnya. Semakin dewasa umurnya maka sugar glider akan mempunyai botak di kepala yang semakin jelas. Kebotakan ini merupakan suatu tanda bahwa mulai tumbuhnya kelenjar bau. ",
+    "betina": "Betina",
+    "betina_des": "Sugar glider betina memiliki kantong di tubuhnya. Kantong pada sugar glider betina ini berfungsi untuk merawat anak-anaknya."
+  },
+  "about1": {
+    "about1title": "Apa itu Sugar Glider",
+    "about1caption": "Sugar glider ( Petaurus breviceps ) adalah hewan kecil, omnivora , arboreal , dan hewan malam hari",
+    "about1_des": "Sugar glider ( Petaurus breviceps ) adalah hewan kecil, omnivora , arboreal , dan hewan malam hari. Hewan ini bisa meluncur dan memiliki kantung (Infraclass) . Nama umum ini mengacu pada kegemarannya terhadap makanan manis seperti nektar dan kemampuannya untuk melayang di udara, seperti tupai terbang .\n     \nSugar glider dapat ditemukan di seluruh bagian utara dan timur daratan Australia, Tasmania, New Guinea dan beberapa pulau terkait seperti Kepulauan Bismarck , Kepulauan Louisiade , dan pulau-pulau tertentu di Indonesia seperti Kepulauan Halmahera di Maluku Utara. \n\nBelakangan ini hewan ini sedang banyak digemari karena menjadi hewan peliharaan yang lucu dan menggemaskan. Umur dari Sugar Glider juga tergolong lama bisa sekitar 10-15 tahun. Sugar glider yang masih berumur 0-3  bulan di sebut Joey dan umur diatas itu disebut Sugar glider dewasa"
+  },
+  "about2": {
+    "about2title": "Sebelum Memelihara",
+    "about2caption": "Persiapan sebelum adopsi",
+    "komitmen": "1. Komitmen",
+    "komitmen_des": "Dalam memelihara Sugar glider kita selaku owner wajib berkomitmen dalam memelihara nya. Dari mulai mampu ketersediaaan pakan yang bergizi, kandang yang luas, tempat yang nyaman, dan juga waktu yang cukup untuk bersosialisasi pada pelihaan kita.",
+    "komunitas": "2. Bergabung dengan komunitas",
+    "komunitas_des": "Bergabung komunitas Sugar glider sangat membantu owner dalam memelihara hewan unik tersebut. Karena kita sebagai owner bisa lebih leluasa mempertanyakan masalah yang owner hadapi terkait Sugar glider dan dijawab langsung oleh orang-orang yang sudah berpengalaman.",
+    "tips": "3. Tips memilih Sugar Glider",
+    "tips_des": "Jika ingin mengadopsi SG, sebaiknya cari tau terlebih dahulu ciri-ciri SG secara baik dan benar.  Karena banyak kasus penipuan dilakukan oleh penjual yang tak bertanggung jawab seperti menjual  FS (Flying Squirrel) namun si penjual bilang bahwasannya itu adalah SG. Ini juga disebabkan oleh owner yang tidak teliti dan tidak mengetahui SG secara fisik\n \nCarilah breeder atau peternak SG yang terpercaya .Disarankan, anda lebih baik survey langsung kerumah breeder atau penjual agar anda dapat langsung melihat sebelum diadopsi. Mintalah kepada penjual perlihatkan gigi SG apakah lengkap atau dipotong, banyak SG yg giginya dipotong dengan tujuan agar terlihat jinak tapi SG yang giginya dipotong kebanyakan sering mengalami Abses sehingga nafsu makannya menghilang, akibatnya SG akan cepat mengalami kematian.\n \nAnda dapat mengadopsi SG yang sudah berumur 3 bulan karena sudah dapat dikatakan mandiri. Dan jika mengadopsi SG di umur yang masih muda maka SG akan cepat dengan mudah bonding kepada owner-nya."
+  },
+  "about3": {
+    "about3title": "Set Up Kandang",
+    "about3caption": "Kandang yang baik akan berpengaruh pada kenyamanan sugar glider.  Set-up kandang Sugar Glider pada umumnya antara lain :",
+    "pilihkandang": "1. Pilih kandang yang ideal",
+    "pilihkandang_des": "Ada banyak jenis kandang untuk SG , namun yang terpenting adalah kandang berukuran besar dan memiliki ruas lubang yang kecil. Pada umumnya owner menggunakan kandang besi dengan ukuran 60x43x43(PxLxT) karena luas dari kandang ini cukup untuk Sugar Glider bermain.",
+    "aksesoris": "2. Aksesoris dalam kandang",
+    "aksesoris_des": "Sugar glider adalah hewan malam atau nokturnal yang terbiasa tidur di pohon saat berada di alam liar. Agar menyerupai habitat asli dan membuatnya nyaman, maka kita dapat menyediakan kantong dari wol(pouch) atau rumah burung dari kayu yang aman.\n\nSebatang kayu juga berfungsi untuk mengasah gigi dan kuku SG. Dengan memilih kayu yang aman seperti jenis eucalyptus, manzanita atau kayu pohon apel atau kayu kopi (namun kayu ini harus sering diganti karena jika sudah terkena air kencing kayu ini akan lembab dan bulu sugar glider akan menguning jika terkena kayu tersebut).\n\nDan jangan lupa menyediakan tempat makan dan minum untuk Sugar Glider. Biasanya owner memakai tempat makan plastik kecil atau piring plastik untuk tempat makan SG karena ringan dan mudah dibersihkan. Untuk tempat minum, owner biasanya memakai botol dot khusus pet karena simple dan tidak mudah tumpah\n\nSelain itu, sugar glider juga merupakan hewan yang cerdik atau pintar sehingga perlu diberi stimulasi agar tidak stress atau depresi. Kondisi stress ini dapat memicu masalah kesehatan lainnya yang tentu sangat dihindari.\n\nOleh karena itu, kita bisa menambahkan mainan untuk stimulasi otak dan fisiknya. Beberapa juga menggunakan permainan roda putar, rantai , dsb. sehingga mereka akan tumbuh sehat dan aktif.",
+    "alas": "3. Alas kotoran kandang",
+    "alas_des": "Alas kotoran kandang juga perlu diperhatikan agar SG merasa nyaman dan terhindar dari berbagai penyakit.  Pada umumnya owner memberikan pasir wangi pada alas nya mengingat kotoran SG yang cukup bau. Ada juga yang memakai serbuk kayu halus karena benda tersebut dapat dengan mudah menyerap kadar air, namun kekurangan dari serbuk kayu ini cepat lembab dan mudah berhamburan."
+  },
+  "donate": "Donate",
+  "donate_des": "Donasi untuk developer dengan menonton iklan.",
+  "cancel": "Cancel"
+}

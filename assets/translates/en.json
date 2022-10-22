@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hello World",
+  "snackbartxt": "language has been changed!",
+  "ternak": "Breeding",
+  "ternakchild": {
+    "attention": "Before mating Sugar Glider , there are factors that must be considered such as : \n1. Comfortable environment \n2. Adequate feed \n3. The cage is quite spacious and clean \n4. Suger Glider is in good health \n5. Make sure they are both in heat (male is 8 months old and female is 9 months old). \n",
+    "penjodohan": "Matchmaking",
+    "kawin": "Mating",
+    "kawin_des": "If the matchmaking stage goes smoothly, then it's just a matter of waiting for the mating time. The kimpoy process usually lasts long enough to last a full night. For that, provide nutritious food so that Sugar Glider's stamina is maintained. ",
+    "penjodohan_des": "At first, make sure the two Sugar Gliders are matched, this is important because many owners fail to breed due to unmatched factors.\n\nMatching Sugar Glider can be done by bringing both male and female cages closer, usually within 1 week. The goal is for them to adapt and get to know each other.\n\nThe matchmaking process can also be faster, for that the owner is required to observe the Sugar Glider. If it is seen that they are consensual (there is an approach and not a strike) then the female Sugar Glider can be integrated into the male cage. Sugar Glider's match is marked by the two of them stroking each other's bodies. ",
+    "hamil": "Pregnant",
+    "hamil_des": "After the mating period, Sugar Glider will experience a gestation period of about 15-18 days. In the process of getting pregnant, it is almost impossible for us to physically know that the Sugar Glider is pregnant. Usually a pregnant Sugar Glider is characterized by silence, decreased appetite in the pouch, and a little sensitivity. ",
+    "melahirkan": "Born",
+    "melahirkan_des": "At this time of birth, the mother gives birth to the size of a grain of rice. Then the child is led to propagate from the womb to the mother's pouch by licking. Sugar Glider can give birth to 1-2 joey and even 3 joey, but that is rare. ",
+    "ip_des": "After the child is born and enters the mother's pouch, this mass is called the In Pouch mass or commonly called IP. IP mass ranges from 1.5 to 2 months. The length of time Ip depends on the number of joeys in the bag. Joey will come out of the bag when it no longer fits in the bag. Usually if there are 2 joeys in the bag, the IP time is around 1.5 months and if it's only 1, the IP time is around 2 months. ",
+    "op_des": "Mass OP period where Joey is out of the bag but still nursing his mother ",
+    "oop_des": "When a joey is out of the bag and is no longer suckling, this is what is called an OOP mass. In general, from this period the age of the new SG is calculated. And usually Joey starts self-study."
+  },
+  "makanan": "Food",
+  "makananchild": {
+    "attention": "Sugar Glider foods in general include : \n",
+    "apel": "1. Apel",
+    "apel_des": "The nutrients contained in apples such as vitamin C, water, carbohydrates, vitamin A, vitamin K, vitamin B1 and vitamin B6 are nutrients that are very healthy and beneficial for the sugar glider's body. In addition to almost no fat and low in calories, apples are also rich in antioxidants and fiber.\n\nWhile the texture of the fruit is rather hard, it is very good for stimulating the teeth of this flying animal. Feeding these apples can be 2 times a week and can be served in small pieces or mashed without the need to peel the skin. ",
+    "pepaya": "2. Pawpaw",
+    "pepaya_des": "Not only does it contain high enough Vitamin C, papaya fruit also contains protein, fiber, carbohydrates, Vitamin A, Vitamin B1, Vitamin B3, Vitamin B5, Vitamin E, Vitamin K and Calcium.\n\nThe content is certainly able to meet the daily nutritional dose and maintain the digestive health of Sugar Glider.\n\nThe presentation can be in a state that has been cut into small pieces or made into porridge (mashed). ",
+    "wortel": "3. Carrot",
+    "wortel_des": "One whole carrot contains a lot of water and carbohydrates.\n\nAlthough the protein content is small, carrots are rich in vitamins, such as Vitamin A, Vitamin B, Vitamin C, Vitamin E, and Vitamin K and the Calcium content is around 3%.\n\nServing carrots can be in the form of thin round slices. But not all Sugar Glider like this carrot. ",
+    "madu": "4. Honey",
+    "madu_des": "Honey is a natural food in the wild that is most favored by Sugar Glider. Honey has a distinct sweet taste because it contains fructose and glucose, which are better than sugar.\n\nThe calorie content of sugar is able to absorb fat, so it is very good to reduce the risk of obesity in Sugar Glider.\n\nThe serving of honey, can be mixed with bursun food, mixed into drinking, or can be fed directly to the Sugar Glider. ",
+    "uh": "5. Mealworm",
+    "uh_des": "Mealworm is one type of caterpillar that is very favored by Sugar Glider. But don't give Hong Kong caterpillars excessively because the high fat content in Hong Kong caterpillars can cause obesity in Sugar Glider (obesity).\n\nIt is enough to give 5-10 live Hong Kong caterpillars for adult Sugar Glider, while 1-5 for Sugar Glider children aged 2-3 months with 2 times a week. ",
+    "jangkrik": "6. Cricket",
+    "jangkrik_des": "There is a very high protein of about 12.9 grams contained in 100 grams of crickets.\n\nGiving enough 5-10 crickets that are still alive, with the provision of 2-3 times a week. ",
+    "telurrebus": "8. Boiled Egg",
+    "telurrebus_des": "Boiled eggs are a very good source of high protein, nutrient dense, very easy to consume so that it can make Sugar Glider fat fast.\n\nOne whole hard-boiled egg contains 6 grams of protein and 9 amino acids.\n\nThe nutritional content is quite complete such as carbohydrates, calcium, phosphorus, Vitamin A, and Vitamin B.\n\nThe serving is enough for one or half boiled eggs that have been peeled and cut into small pieces. ",
+    "kecoadubia": "7. Cockroach Dubia",
+    "kecoadubia_des": "The dubia cockroach has also become one of the owner's choices for his beloved Sugar Glider because of its high protein content."
+  },
+  "jenis": "Types",
+  "jenischild": {
+    "cg": "The Classic Gray breed has gray fur and a black stripe that runs from the head to the back, and also has a dark stripe that runs from the eyes to the ears.",
+    "wf": "The White Face type has a pattern similar to Classic Gray but with a white face and no black markings near the ears",
+    "wt": "This type of White Tip has white fur on the tip of the tail",
+    "rt": "The Ringtail type has feathers that are similar to gray, but there are black variations that are circular like a ring on their white tail",
+    "mo": "The Mosaic type has a combination of colors between the Leucistic and White face types with patches of color like partially erased on the body",
+    "leu": "The Leucistic type has a plain white coat with black eyes",
+    "al": "Similar to Leucistic, the Albino type has white fur with red eyes due to a genetic disorder",
+    "plat": "The Platinum type has a faint gray coat color that looks like faded",
+    "bb": "The Black Beauty type has fur that is similar to Classic Gray but is dark in color all over its body with thick lines on the face as if it blends with the eye circle line.",
+    "creamino": "The Creamino type has golden cream-colored fur with red eyes",
+    "piebald": "The Piebald type has a physical form such as a combination of classic gray and leucestic types",
+    "tpm": "The True Platinum Mosaic type is one of the morph sugar gliders of the mosaic type"
+  },
+  "perawatan": "Care",
+  "perawatanchild": {
+    "memandikan": "Bathing",
+    "memandikanchild": {
+      "attention": "Things to consider before bathing Sugar gliders :",
+      "attention_des": "1. Sugar glider is in good health\n2. Better Sugar Glider that has been tame\n3. Sugar Glider is calm and not stressed\n4. Bathing Sugar Glider in the morning is better ",
+      "aNb": "Tools & Materials",
+      "aNb_des": "1. Non-alcoholic wet wipes\n2. Towel ",
+      "langkah": "Steps",
+      "langkah_des": "1. Remove the sugar glider from the cage, use a towel if the Sugar Glider is not yet tame.\n\n2. Make the Sugar Glider feel safe first by rubbing it.\n\n3. Wash the Sugar Glider's body with a non-alcoholic wet tissue every corner.\n\n4. Then wipe the sugar glider with a soft and dry towel slowly.\n\n5. Put him back in the cage and let him rest and dry off.\n\nDon't bathe your Sugar Glider too often because it can cleanse the body on its own."
+    },
+    "potongkuku": "Cut Nails",
+    "potongkukuchild": {
+      "attention": "Things to consider before cutting Sugar glider nails:",
+      "attention_des": "1. Sugar glider is in good health\n2. Better Sugar Glider that has been tame\n3. Sugar Glider is calm and not stressed",
+      "aNb": "Tools & Material",
+      "aNb_des": "1. Nail clippers\n2. Small Pockets or Towels ",
+      "langkah": "Steps",
+      "langkah_des1": "1. Make the Sugar Glider feel safe first by rubbing it.\n\n2. Put the Sugar Glider in a small bag or you can wrap it with a towel and then take the leg that you want to cut your nails.",
+      "langkah_des2": "3. Pay attention to the cutting limit on the sugar glider's nails. Make sure the nails of the sugar glider are not too short. The part of the nail that is cut must not touch the quick call or the flesh. Cut only the sharp parts.\n \n4. Cut the nails of the sugar glider with the prepared nail clipper, it is recommended to cut them with a special nail clipper for pets.\n \n5. Then put the sugar glider in the cage and give him his favorite food.\n \nSugar Glider nail trimming can be done in 2 weeks."
+    },
+    "penyakit": "Disease",
+    "penyakitchild": {
+      "attention": "Diseases of the Sugar Glider include :",
+      "hairloss": "Hairloss",
+      "hairloss_des": "Hairloss is a type of sugar glider disease that causes body hair to fall out. Usually the main cause of this disease is due to a dirty cage, lack of nutrition and protein and stress.\n\nSo that the Sugar Glider is not exposed to hair loss, it is recommended to always keep the cage and surroundings clean, at least 2 times a week, especially cleaning the pouch. ",
+      "diare": "Diarrhea",
+      "diare_des": "Sugar gliders who have diarrhea will experience indigestion, and if not treated immediately will result in death. The main cause is the source of food, or the wrong food. It is recommended not to feed the insects too often, or the porridge that is too liquid. Combine sugar glider food with fruit or other. ",
+      "katarak": "Cataract",
+      "katarak_des": "Cataracts are caused by the intake of foods that contain fat that is too high so that the nutrition in the body is not balanced and it can also be caused by direct sunlight. This disease is characterized by the appearance of white spots in the sugar glider's eyes, which will then spread throughout the eyes until they eventually go blind.\n\nTreatment of cataract disease is very difficult to handle. if you do not treat it immediately it will be more difficult or even cataracts forever. Therefore to maintain the intake of Sugar Glider properly. ",
+      "kakibengkak": "Swollen foot",
+      "kakibengkak_des": "Sugar glider feet that experience swelling are usually due to a bacterial infection attached to the Sugar Glider's foot wound. The disease is caused by a dirty cage arena so that bacteria can grow and develop freely.\n\nIf not treated immediately, this swelling will decay and stress the Sugar Glider which will result in death. "
+    }
+  },
+  "kelamin": "Gender",
+  "kelaminchild": {
+    "attention": "How to distinguish the gender of Sugar Glider :",
+    "jantan": "Male",
+    "jantan_des": "Male sugar gliders do not have pouches on their bodies. Male sugar gliders have a more pungent smell of urine than female sugar gliders which serve to mark their territory. At the age of about 5 months male sugar gliders will experience physical changes, namely balding on the top of the head. The older the sugar glider, the more obvious bald spots on the head. This baldness is a sign that the smell glands are starting to grow. ",
+    "betina": "Female",
+    "betina_des": "Female sugar gliders have pouches on their bodies. The pouch on this female sugar glider serves to take care of her young."
+  },
+  "about1": {
+    "about1title": "What is Sugar Glider",
+    "about1caption": "The sugar glider (Petaurus breviceps) is a small, omnivorous, arboreal, and nocturnal animal.",
+    "about1_des": "Sugar gliders (Petaurus breviceps) are small, omnivorous, arboreal, and nocturnal animals. This animal can glide and has a pouch (Infraclass). This common name refers to his penchant for sweet foods such as nectar and his ability to soar through the air, like a flying squirrel.\n     \nSugar gliders can be found throughout the northern and eastern parts of mainland Australia, Tasmania, New Guinea and related islands such as the Bismarck Archipelago, the Louisiade Islands, and certain Indonesian islands such as the Halmahera Islands in North Maluku.\n\nLately, this animal is very popular because it is a cute and adorable pet. The age of the Sugar Glider is also quite long, it can be around 10-15 years. Sugar gliders who are 0-3 months old are called Joeys and those aged above are called adult sugar gliders"
+  },
+  "about2": {
+    "about2title": "Before Adoption",
+    "about2caption": "Preparation before adoption",
+    "komitmen": "1. Commitment",
+    "komitmen_des": "In maintaining our Sugar glider as the owner, we must be committed to maintaining it. Starting from being able to provide nutritious feed, spacious cages, comfortable places, and also enough time to socialize with our pets.",
+    "komunitas": "2. Join the community",
+    "komunitas_des": "Joining the Sugar glider community really helps the owner in maintaining these unique animals. Because we as owners can more freely question the problems the owner faces regarding Sugar gliders and are answered directly by experienced people.",
+    "tips": "3. Tips for choosing a Sugar Glider",
+    "tips_des": "If you want to adopt SG, you should first find out the characteristics of SG properly and correctly. Because many cases of fraud are carried out by irresponsible sellers such as selling FS (Flying Squirrel) but the seller says that it is SG. This is also caused by the owner who is not careful and does not know SG physically\n \nLook for a trusted breeder or breeder of SG. It is recommended that you do a direct survey to the house of the breeder or seller so that you can immediately see before adoption. Ask the seller to show the SG's teeth whether they are complete or cut, many SGs have their teeth cut with the aim of making them look tame, but SGs whose teeth are cut mostly often experience abscesses so that their appetite disappears, as a result SG will die quickly.\n \nYou can adopt an SG that is 3 months old because it can be said to be independent. And if you adopt SG at a young age, then SG will quickly bond with the owner."
+  },
+  "about3": {
+    "about3title": "Set Up Kandang",
+    "about3caption": "A good cage will affect the comfort of the sugar glider. The general set-up of a Sugar Glider cage includes :",
+    "pilihkandang": "1. Choose the ideal cage",
+    "pilihkandang_des": "There are many types of cages for SG, but the most important is that the cage is large and has a small hole segment. In general, the owner uses an iron cage with a size of 60x43x43(LxWxH) because the area of this cage is enough for Sugar Glider to play.",
+    "aksesoris": "2. Accessories in the cage",
+    "aksesoris_des": "Sugar gliders are nocturnal or nocturnal animals that are used to sleeping in trees when in the wild. In order to resemble the natural habitat and make it comfortable, we can provide a safe wooden pouch or bird house.\n\nA stick of wood also serves to sharpen SG's teeth and nails. By choosing safe wood such as eucalyptus, manzanita or apple tree wood or coffee wood (but this wood must be replaced often because if it is exposed to urine this wood will become damp and the sugar glider's fur will turn yellow if it is exposed to the wood).\n\nAnd don't forget to provide a place to eat and drink for Sugar Glider. Usually the owner uses a small plastic place to eat or a plastic plate for the SG because it is light and easy to clean. For drinking places, the owner usually uses a special pet bottle because it's simple and doesn't spill easily\n\nIn addition, sugar gliders are also intelligent or intelligent animals so they need to be stimulated so they don't get stressed or depressed. This stressful condition can trigger other health problems that are certainly very avoidable.\n\nTherefore, we can add toys for brain and physical stimulation. Some also use spinning wheel games, chains, etc. so they will grow up healthy and active.",
+    "alas": "3. Manure mat",
+    "alas_des": "The litter mat also needs to be considered so that the SG feels comfortable and avoids various diseases. In general, the owner gives fragrant sand on the base considering the SG dirt which is quite smelly. There are also those who use fine sawdust because it can easily absorb moisture content, but the drawback of this sawdust is that it quickly becomes moist and scatters easily."
+  },
+  "donate": "Donate",
+  "donate_des": "Donate to developers by watching ads.",
+  "cancel": "Cancel"
+}
