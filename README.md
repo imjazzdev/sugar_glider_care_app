@@ -1,16 +1,29 @@
-# testing
+# Sugar Glider Care App
+This application includes information about taking good care of sugar gliders
 
-A new Flutter project.
+![Group 4 (1)](https://user-images.githubusercontent.com/113785858/193728247-d7ca1f2f-fc72-43ad-9038-ca70acb9f9d3.jpg)
 
-## Getting Started
+### On Playstore(https://play.google.com/store/apps/details?id=com.jazzdev.sugarglidercare)
 
-This project is a starting point for a Flutter application.
+# Fitur
+- Splash Screen
+- Multi Language (9 language)
+- Banner slider autoplay
+- Horizontal List of Catagory
+- Types of Sugar Glider
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Package
+  - cached_network_image
+  - carousel_slider
+  - cupertino_icons
+  - easy_localization
+  - firebase_core
+  - firebase_storage
+  - flutter_native_splash
+  - flutter_svg
+  - google_fonts
+  - masonry_grid
+  - package_info
+  - provider
+  - shimmer
+  - unity_ads_plugin
